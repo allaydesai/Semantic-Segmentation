@@ -34,7 +34,7 @@ def load_vgg(sess, vgg_path):
 	# load graph from file
 	model = tf.saved_model.loader.load(sess, [vgg_tag], vgg_path)
 	# assign it to a variable
-	graph = tf.get_default_graph();
+	graph = tf.get_default_graph()
 	# load weights from each layer
 	w1  = graph.get_tensor_by_name(vgg_input_tensor_name)
 	keep  = graph.get_tensor_by_name(vgg_keep_prob_tensor_name)
@@ -97,7 +97,7 @@ def optimize(nn_last_layer, correct_label, learning_rate, num_classes):
 	logits = tf.reshape(nn_last_layer, (-1, num_classes))
 	correct_label_flatten = tf.reshape(correct_label, (-1, num_classes))
 	# calculate loss and take mean
-	cross_entropy_loss = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(logits, correct_label_flatten))
+	cross_entropy_loss = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(logits=logits, labels=correct_label_flatten))
 	# Optimizer 
 	opt = tf.train.AdamOptimizer(learning_rate).minimize(cross_entropy_loss)
 	return logits, opt, cross_entropy_loss
@@ -120,12 +120,15 @@ def train_nn(sess, epochs, batch_size, get_batches_fn, train_op, cross_entropy_l
 	:param keep_prob: TF Placeholder for dropout keep probability
 	:param learning_rate: TF Placeholder for learning rate
 	"""
-	# TODO: Implement function
-	for epoch in epochs:
+	
+	keep_prob_value = 0.5
+	learning_rate_value = 0.001
+	
+	for epoch in range(epochs):
 		total_loss = 0
 		for image, label in get_batches_fn(batch_size):
 			# training
-			loss, optimizer = sess.run([cross_entropy_loss, opt], feed_dict={input_image: image, correct_label: label, keep_prob: keep_prob, learning_rate: learning_rate}) 
+			loss, optimizer = sess.run([cross_entropy_loss, train_op], feed_dict={input_image: image, correct_label: label, keep_prob: keep_prob_value, learning_rate: learning_rate_value}) 
 			
 			total_loss += loss;
 			
