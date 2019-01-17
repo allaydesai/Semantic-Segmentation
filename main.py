@@ -18,6 +18,7 @@ else:
 	print('Default GPU Device: {}'.format(tf.test.gpu_device_name()))
 
 
+
 def load_vgg(sess, vgg_path):
 	"""
 	Load Pretrained VGG Model into TensorFlow.
@@ -121,7 +122,7 @@ def train_nn(sess, epochs, batch_size, get_batches_fn, train_op, cross_entropy_l
 	:param learning_rate: TF Placeholder for learning rate
 	"""
 	
-	keep_prob_value = 0.5
+	keep_prob_value = 0.75
 	learning_rate_value = 0.001
 	
 	for epoch in range(epochs):
@@ -146,10 +147,7 @@ def run():
 	runs_dir = './runs'
 	tests.test_for_kitti_dataset(data_dir)
 	
-	# Model parameters
-	img_shape = (160, 576)
-	EPOCHS = 1
-	BATCH_SIZE = 128
+	
 
 	# Download pretrained vgg model
 	helper.maybe_download_pretrained_vgg(data_dir)
@@ -158,15 +156,18 @@ def run():
 	# You'll need a GPU with at least 10 teraFLOPS to train on.
 	#  https://www.cityscapes-dataset.com/
 	
+	# Model parameters
+	EPOCHS = 40
+	BATCH_SIZE = 16
+		
 	# create tensors 
-	correct_label = tf.placeholder(tf.float32, [None, img_shape[0], img_shape[1], num_classes])
+	correct_label = tf.placeholder(tf.float32, [None, image_shape[0], image_shape[1], num_classes])
 	learning_rate = tf.placeholder(tf.float32)
 	keep_prob = tf.placeholder(tf.float32)
+	
 
 	with tf.Session() as sess:
-		 # Initialize all variables
-		sess.run( tf.global_variables_initializer() )
-		sess.run( tf.local_variables_initializer() )
+		
 		
 		# Path to vgg model
 		vgg_path = os.path.join(data_dir, 'vgg')
@@ -181,9 +182,11 @@ def run():
 		model_result = layers(layer3, layer4, layer7, num_classes) 
 		
 		logits, opt, cross_entropy_loss = optimize(model_result, correct_label, learning_rate, num_classes)
-		# TODO: Train NN using the train_nn function
-		epochs = 1
-		batch_size = 128
+		
+		# Initialize all variables
+		sess.run( tf.global_variables_initializer() )
+		sess.run( tf.local_variables_initializer() )
+		# Train NN using the train_nn function
 		train_nn(sess, EPOCHS, BATCH_SIZE, get_batches_fn, opt, cross_entropy_loss, image_input, correct_label, keep_prob, learning_rate)
 		
 		# TODO: Save inference data using helper.save_inference_samples
