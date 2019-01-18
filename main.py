@@ -33,7 +33,7 @@ def load_vgg(sess, vgg_path):
 	vgg_layer4_out_tensor_name = 'layer4_out:0'
 	vgg_layer7_out_tensor_name = 'layer7_out:0'
 	# load graph from file
-	model = tf.saved_model.loader.load(sess, [vgg_tag], vgg_path)
+	tf.saved_model.loader.load(sess, [vgg_tag], vgg_path)
 	# assign it to a variable
 	graph = tf.get_default_graph()
 	# load weights from each layer
@@ -60,25 +60,59 @@ def layers(vgg_layer3_out, vgg_layer4_out, vgg_layer7_out, num_classes):
 	"""
 	# Feed output of base network into new network
 	# Regularize to penalize large weights, avoids overfitting 
-	layer8 = tf.layers.conv2d(vgg_layer7_out,\
-								num_classes,\
-								1,\
-								padding='same',\
-								kernel_regularizer=tf.contrib.layers.l2_regularizer(1e-3))
+	# converting encoder pooling output layers to 1x1 conv 
+	vgg_layer7_1x1 = tf.layers.conv2d(	inputs=vgg_layer7_out,\
+										filters=num_classes,\
+										kernel_size=1,\
+										padding='same',\
+										kernel_regularizer=tf.contrib.layers.l2_regularizer(1e-3),\
+										name='vgg_layer7_1x1')
 	# now a deconvlution layer
 	# upsample by 2, making it same size as VGG layer 4
-	filter_size = vgg_layer4_out.get_shape().as_list()[-1]
-	layer9 = tf.layers.conv2d_transpose(layer8, filter_size, 4, 2, padding='same', kernel_regularizer=tf.contrib.layers.l2_regularizer(1e-3))
+	#filter_size = vgg_layer4_out.get_shape().as_list()[-1]
+	fcn_layer1 = tf.layers.conv2d_transpose(	inputs=vgg_layer7_1x1,\
+												filters=num_classes,\
+												kernel_size=4,\
+												strides=2,\
+												padding='same',\
+												kernel_regularizer=tf.contrib.layers.l2_regularizer(1e-3),\
+												name='fcn_layer1')
+	# converting encoder pooling output layers to 1x1 conv 
+	vgg_layer4_1x1 = tf.layers.conv2d(	inputs=vgg_layer4_out,\
+										filters=num_classes,\
+										kernel_size=1,\
+										padding='same',\
+										kernel_regularizer=tf.contrib.layers.l2_regularizer(1e-3),\
+										name='vgg_layer4_1x1')
 	# skip connection pool4 -> layer9
-	layer9_skip = tf.add(layer9, vgg_layer4_out)
+	fcn_layer1_skip = tf.add(fcn_layer1, vgg_layer4_1x1, name='fcn_layer1_skip')
 	# upsmaple by 2
-	filter_size = vgg_layer3_out.get_shape().as_list()[-1]
-	layer10 = tf.layers.conv2d_transpose(layer9_skip, filter_size, 4, 2, padding='same', kernel_regularizer=tf.contrib.layers.l2_regularizer(1e-3))
+	#filter_size = vgg_layer3_out.get_shape().as_list()[-1]
+	fcn_layer2 = tf.layers.conv2d_transpose(	inputs=fcn_layer1_skip,\
+												filters=num_classes,\
+												kernel_size=4,\
+												strides=2,\
+												padding='same',\
+												kernel_regularizer=tf.contrib.layers.l2_regularizer(1e-3),\
+												name='fcn_layer2')
+	# converting encoder pooling output layers to 1x1 conv 
+	vgg_layer3_1x1 = tf.layers.conv2d(	inputs=vgg_layer3_out,\
+										filters=num_classes,\
+										kernel_size=1,\
+										padding='same',\
+										kernel_regularizer=tf.contrib.layers.l2_regularizer(1e-3),\
+										name='vgg_layer3_1x1')
 	# skip connection pool3 -> layer10
-	layer10_skip = tf.add(layer10, vgg_layer3_out)
+	fcn_layer2_skip = tf.add(fcn_layer2, vgg_layer3_1x1, name='fcn_layer2_skip')
 	# upsample by 4
 	# same size as input image
-	output = tf.layers.conv2d_transpose(layer10_skip, num_classes, 16, 8, padding='same', kernel_regularizer=tf.contrib.layers.l2_regularizer(1e-3))
+	output = tf.layers.conv2d_transpose(	inputs=fcn_layer2_skip,\
+											filters=num_classes,\
+											kernel_size=16,\
+											strides=8,\
+											padding='same',\
+											kernel_regularizer=tf.contrib.layers.l2_regularizer(1e-3),\
+											name='output')
 	
 	
 	return output
@@ -127,12 +161,15 @@ def train_nn(sess, epochs, batch_size, get_batches_fn, train_op, cross_entropy_l
 	
 	for epoch in range(epochs):
 		total_loss = 0
+		batch = 0
 		for image, label in get_batches_fn(batch_size):
 			# training
 			loss, optimizer = sess.run([cross_entropy_loss, train_op], feed_dict={input_image: image, correct_label: label, keep_prob: keep_prob_value, learning_rate: learning_rate_value}) 
-			
+			print('Epoch {} - Batch {} - Loss {}'.format(epoch + 1, batch+1, loss))
 			total_loss += loss;
-			
+			batch += 1
+		
+		print(" ")	
 		print("EPOCH {} ...".format(epoch + 1))
 		print("Loss = {:.3f}".format(total_loss))
 		print()
@@ -157,7 +194,7 @@ def run():
 	#  https://www.cityscapes-dataset.com/
 	
 	# Model parameters
-	EPOCHS = 40
+	EPOCHS = 1
 	BATCH_SIZE = 16
 		
 	# create tensors 
