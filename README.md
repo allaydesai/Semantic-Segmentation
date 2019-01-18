@@ -1,10 +1,48 @@
-# Semantic Segmentation
-### Introduction
-In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
+# CarND-Semantic-Segmentation
 
-### Setup
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+Self-Driving Car Engineer Nanodegree Program
+
+---
+
+[//]: # (Image References)
+
+[video]: ./imgs/path_planning_final.gif "Video showing planning in action"
+[plan_proc]: ./imgs/planning_process.PNG "Planning Process"
+[result]: ./imgs/result.PNG "Result"
+
+### Overview
+
+Goal of this project is to label the pixels of a road in images using a Fully Convolutional Network (FCN) to acheive scene understanding. Semantic segmentation is the task of assigning meaning to part of an object by classifying each pixel location in categories such as road, car, pedestrian, sign, or any number of other classes. This helps us derive valuable information about every pixel in the image in comparision to traditional bounding box based approach of slicing sections. Purpose of scene understanding is to help develop perception which enables self driving cars to make decisions. 
+
+### Goals:
+- Helper functions: load_vgg, layers, optimize and train_nn implemented correctly
+- Ensure passing all unit tests
+- Model decreases loss over time
+- Parameter tuning: batch size and epochs
+- Model labels most pixels of roads close to the best solution (80% road, 20% of non-road acceptable)
+
+### Project Files
+
+The repository consists of the following files:
+- /data : Folder containing the data 
+- /examples : Sample results
+- /run : result images of most recent run
+- README.md : writeup file (either markdown or pdf)
+- helper.py : Helper function for downloading vgg weights and batching
+- main.py : Main program containing the model architecture and training
+- project_test.py : Unit test for functions within main.py
+
+### Dataset
+
+Project uses the Kitti Road dataset which can be download from [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php) from [here](http://www.cvlibs.net/download.php?file=data_road.zip).  Extract the dataset in the `data` folder.  This will create the folder `data_road` with all the training a test images.
+
+### Setup and Dependecies
+
 ##### GPU
 `main.py` will check to make sure you are using GPU - if you don't have a GPU on your system, you can use AWS or another cloud computing platform.
+
 ##### Frameworks and Packages
 Make sure you have the following is installed:
  - [Python 3](https://www.python.org/)
@@ -14,8 +52,8 @@ Make sure you have the following is installed:
 
 You may also need [Python Image Library (PIL)](https://pillow.readthedocs.io/) for SciPy's `imresize` function.
 
-##### Dataset
-Download the [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php) from [here](http://www.cvlibs.net/download.php?file=data_road.zip).  Extract the dataset in the `data` folder.  This will create the folder `data_road` with all the training a test images.
+---
+
 
 ### Start
 ##### Implement
