@@ -1,0 +1,2302 @@
+Epoch 1 - Batch 1 - Loss 52.6630973815918
+Epoch 1 - Batch 2 - Loss 46.215999603271484
+Epoch 1 - Batch 3 - Loss 32.936153411865234
+Epoch 1 - Batch 4 - Loss 27.58592987060547
+Epoch 1 - Batch 5 - Loss 25.92738151550293
+Epoch 1 - Batch 6 - Loss 21.74813461303711
+Epoch 1 - Batch 7 - Loss 17.527681350708008
+Epoch 1 - Batch 8 - Loss 15.091650009155273
+Epoch 1 - Batch 9 - Loss 12.794918060302734
+Epoch 1 - Batch 10 - Loss 11.913171768188477
+Epoch 1 - Batch 11 - Loss 10.87287425994873
+Epoch 1 - Batch 12 - Loss 9.35442066192627
+Epoch 1 - Batch 13 - Loss 8.105596542358398
+Epoch 1 - Batch 14 - Loss 7.189790725708008
+Epoch 1 - Batch 15 - Loss 6.452641010284424
+Epoch 1 - Batch 16 - Loss 6.04617166519165
+Epoch 1 - Batch 17 - Loss 5.437466144561768
+Epoch 1 - Batch 18 - Loss 5.159203052520752
+Epoch 1 - Batch 19 - Loss 4.869317531585693
+
+EPOCH 1 ...
+Loss = 327.892
+
+Epoch 2 - Batch 1 - Loss 4.391135215759277
+Epoch 2 - Batch 2 - Loss 4.175651550292969
+Epoch 2 - Batch 3 - Loss 4.0641326904296875
+Epoch 2 - Batch 4 - Loss 3.353952646255493
+Epoch 2 - Batch 5 - Loss 3.1142358779907227
+Epoch 2 - Batch 6 - Loss 3.001538038253784
+Epoch 2 - Batch 7 - Loss 2.945868492126465
+Epoch 2 - Batch 8 - Loss 2.899583339691162
+Epoch 2 - Batch 9 - Loss 2.5930802822113037
+Epoch 2 - Batch 10 - Loss 2.4804837703704834
+Epoch 2 - Batch 11 - Loss 2.317291021347046
+Epoch 2 - Batch 12 - Loss 2.2446672916412354
+Epoch 2 - Batch 13 - Loss 2.17120099067688
+Epoch 2 - Batch 14 - Loss 2.169872760772705
+Epoch 2 - Batch 15 - Loss 2.0627989768981934
+Epoch 2 - Batch 16 - Loss 1.9940216541290283
+Epoch 2 - Batch 17 - Loss 1.9206057786941528
+Epoch 2 - Batch 18 - Loss 1.848858118057251
+Epoch 2 - Batch 19 - Loss 1.7789173126220703
+
+EPOCH 2 ...
+Loss = 51.528
+
+Epoch 3 - Batch 1 - Loss 1.7781062126159668
+Epoch 3 - Batch 2 - Loss 1.8145266771316528
+Epoch 3 - Batch 3 - Loss 1.706132173538208
+Epoch 3 - Batch 4 - Loss 1.824342131614685
+Epoch 3 - Batch 5 - Loss 1.6796778440475464
+Epoch 3 - Batch 6 - Loss 1.5391299724578857
+Epoch 3 - Batch 7 - Loss 1.6390231847763062
+Epoch 3 - Batch 8 - Loss 1.4595564603805542
+Epoch 3 - Batch 9 - Loss 1.4793680906295776
+Epoch 3 - Batch 10 - Loss 1.4770599603652954
+Epoch 3 - Batch 11 - Loss 1.4695831537246704
+Epoch 3 - Batch 12 - Loss 1.3946340084075928
+Epoch 3 - Batch 13 - Loss 1.4286166429519653
+Epoch 3 - Batch 14 - Loss 1.348129391670227
+Epoch 3 - Batch 15 - Loss 1.3543014526367188
+Epoch 3 - Batch 16 - Loss 1.3120664358139038
+Epoch 3 - Batch 17 - Loss 1.3161232471466064
+Epoch 3 - Batch 18 - Loss 1.2607781887054443
+Epoch 3 - Batch 19 - Loss 1.3153146505355835
+
+EPOCH 3 ...
+Loss = 28.596
+
+Epoch 4 - Batch 1 - Loss 1.2523549795150757
+Epoch 4 - Batch 2 - Loss 1.2128734588623047
+Epoch 4 - Batch 3 - Loss 1.268792986869812
+Epoch 4 - Batch 4 - Loss 1.2028290033340454
+Epoch 4 - Batch 5 - Loss 1.2283544540405273
+Epoch 4 - Batch 6 - Loss 1.1705677509307861
+Epoch 4 - Batch 7 - Loss 1.1585661172866821
+Epoch 4 - Batch 8 - Loss 1.181186556816101
+Epoch 4 - Batch 9 - Loss 1.1705642938613892
+Epoch 4 - Batch 10 - Loss 1.1583768129348755
+Epoch 4 - Batch 11 - Loss 1.090360403060913
+Epoch 4 - Batch 12 - Loss 1.1569244861602783
+Epoch 4 - Batch 13 - Loss 1.1270923614501953
+Epoch 4 - Batch 14 - Loss 1.0980201959609985
+Epoch 4 - Batch 15 - Loss 1.102249264717102
+Epoch 4 - Batch 16 - Loss 1.1161937713623047
+Epoch 4 - Batch 17 - Loss 1.0873135328292847
+Epoch 4 - Batch 18 - Loss 1.053401231765747
+Epoch 4 - Batch 19 - Loss 1.1689155101776123
+
+EPOCH 4 ...
+Loss = 22.005
+
+Epoch 5 - Batch 1 - Loss 1.1038546562194824
+Epoch 5 - Batch 2 - Loss 1.0532838106155396
+Epoch 5 - Batch 3 - Loss 1.0009350776672363
+Epoch 5 - Batch 4 - Loss 1.0303537845611572
+Epoch 5 - Batch 5 - Loss 1.0207467079162598
+Epoch 5 - Batch 6 - Loss 1.0214390754699707
+Epoch 5 - Batch 7 - Loss 1.0454554557800293
+Epoch 5 - Batch 8 - Loss 0.9999487996101379
+Epoch 5 - Batch 9 - Loss 0.9866807460784912
+Epoch 5 - Batch 10 - Loss 0.9911878705024719
+Epoch 5 - Batch 11 - Loss 1.0192129611968994
+Epoch 5 - Batch 12 - Loss 0.985382616519928
+Epoch 5 - Batch 13 - Loss 1.0072424411773682
+Epoch 5 - Batch 14 - Loss 0.9837528467178345
+Epoch 5 - Batch 15 - Loss 0.9388914108276367
+Epoch 5 - Batch 16 - Loss 0.9894362688064575
+Epoch 5 - Batch 17 - Loss 0.9735040664672852
+Epoch 5 - Batch 18 - Loss 0.9704264402389526
+Epoch 5 - Batch 19 - Loss 0.9447618126869202
+
+EPOCH 5 ...
+Loss = 19.066
+
+Epoch 6 - Batch 1 - Loss 0.9441893100738525
+Epoch 6 - Batch 2 - Loss 0.9840772747993469
+Epoch 6 - Batch 3 - Loss 0.9633012413978577
+Epoch 6 - Batch 4 - Loss 0.9510387182235718
+Epoch 6 - Batch 5 - Loss 0.9554320573806763
+Epoch 6 - Batch 6 - Loss 0.9180371761322021
+Epoch 6 - Batch 7 - Loss 0.9410400986671448
+Epoch 6 - Batch 8 - Loss 0.9033706784248352
+Epoch 6 - Batch 9 - Loss 0.8994739055633545
+Epoch 6 - Batch 10 - Loss 0.941235363483429
+Epoch 6 - Batch 11 - Loss 0.903302788734436
+Epoch 6 - Batch 12 - Loss 0.9006208777427673
+Epoch 6 - Batch 13 - Loss 0.8869560360908508
+Epoch 6 - Batch 14 - Loss 0.9033962488174438
+Epoch 6 - Batch 15 - Loss 0.8805980086326599
+Epoch 6 - Batch 16 - Loss 0.8996742367744446
+Epoch 6 - Batch 17 - Loss 0.9019230604171753
+Epoch 6 - Batch 18 - Loss 0.8891474604606628
+Epoch 6 - Batch 19 - Loss 0.8754204511642456
+
+EPOCH 6 ...
+Loss = 17.442
+
+Epoch 7 - Batch 1 - Loss 0.8934771418571472
+Epoch 7 - Batch 2 - Loss 0.8855841159820557
+Epoch 7 - Batch 3 - Loss 0.8875008225440979
+Epoch 7 - Batch 4 - Loss 0.8752843141555786
+Epoch 7 - Batch 5 - Loss 0.8812803626060486
+Epoch 7 - Batch 6 - Loss 0.8469804525375366
+Epoch 7 - Batch 7 - Loss 0.8735548853874207
+Epoch 7 - Batch 8 - Loss 0.8524296879768372
+Epoch 7 - Batch 9 - Loss 0.856489896774292
+Epoch 7 - Batch 10 - Loss 0.8967928290367126
+Epoch 7 - Batch 11 - Loss 0.8527817726135254
+Epoch 7 - Batch 12 - Loss 0.8495375514030457
+Epoch 7 - Batch 13 - Loss 0.8527480959892273
+Epoch 7 - Batch 14 - Loss 0.8415651321411133
+Epoch 7 - Batch 15 - Loss 0.8735560774803162
+Epoch 7 - Batch 16 - Loss 0.8464881181716919
+Epoch 7 - Batch 17 - Loss 0.834517240524292
+Epoch 7 - Batch 18 - Loss 0.8309500813484192
+Epoch 7 - Batch 19 - Loss 0.8058515191078186
+
+EPOCH 7 ...
+Loss = 16.337
+
+Epoch 8 - Batch 1 - Loss 0.8533236980438232
+Epoch 8 - Batch 2 - Loss 0.8242191076278687
+Epoch 8 - Batch 3 - Loss 0.8236254453659058
+Epoch 8 - Batch 4 - Loss 0.8272989988327026
+Epoch 8 - Batch 5 - Loss 0.8327823281288147
+Epoch 8 - Batch 6 - Loss 0.8260379433631897
+Epoch 8 - Batch 7 - Loss 0.8215177059173584
+Epoch 8 - Batch 8 - Loss 0.831297755241394
+Epoch 8 - Batch 9 - Loss 0.8102623820304871
+Epoch 8 - Batch 10 - Loss 0.8194243311882019
+Epoch 8 - Batch 11 - Loss 0.8077959418296814
+Epoch 8 - Batch 12 - Loss 0.817936360836029
+Epoch 8 - Batch 13 - Loss 0.8217054009437561
+Epoch 8 - Batch 14 - Loss 0.812571108341217
+Epoch 8 - Batch 15 - Loss 0.8189059495925903
+Epoch 8 - Batch 16 - Loss 0.8206295371055603
+Epoch 8 - Batch 17 - Loss 0.800937294960022
+Epoch 8 - Batch 18 - Loss 0.8061069250106812
+Epoch 8 - Batch 19 - Loss 0.7882332801818848
+
+EPOCH 8 ...
+Loss = 15.565
+
+Epoch 9 - Batch 1 - Loss 0.8102593421936035
+Epoch 9 - Batch 2 - Loss 0.8037346601486206
+Epoch 9 - Batch 3 - Loss 0.7889914512634277
+Epoch 9 - Batch 4 - Loss 0.7947418093681335
+Epoch 9 - Batch 5 - Loss 0.7954685688018799
+Epoch 9 - Batch 6 - Loss 0.8005945086479187
+Epoch 9 - Batch 7 - Loss 0.7948859333992004
+Epoch 9 - Batch 8 - Loss 0.7999736070632935
+Epoch 9 - Batch 9 - Loss 0.7919256687164307
+Epoch 9 - Batch 10 - Loss 0.7828999757766724
+Epoch 9 - Batch 11 - Loss 0.7867175340652466
+Epoch 9 - Batch 12 - Loss 0.7797771096229553
+Epoch 9 - Batch 13 - Loss 0.7871320843696594
+Epoch 9 - Batch 14 - Loss 0.7844744920730591
+Epoch 9 - Batch 15 - Loss 0.7788592576980591
+Epoch 9 - Batch 16 - Loss 0.7940776348114014
+Epoch 9 - Batch 17 - Loss 0.7767482399940491
+Epoch 9 - Batch 18 - Loss 0.7762085795402527
+Epoch 9 - Batch 19 - Loss 0.7553080320358276
+
+EPOCH 9 ...
+Loss = 14.983
+
+Epoch 10 - Batch 1 - Loss 0.7678026556968689
+Epoch 10 - Batch 2 - Loss 0.7651392817497253
+Epoch 10 - Batch 3 - Loss 0.769584596157074
+Epoch 10 - Batch 4 - Loss 0.7862687706947327
+Epoch 10 - Batch 5 - Loss 0.7697685956954956
+Epoch 10 - Batch 6 - Loss 0.7718587517738342
+Epoch 10 - Batch 7 - Loss 0.7821406722068787
+Epoch 10 - Batch 8 - Loss 0.7672767043113708
+Epoch 10 - Batch 9 - Loss 0.7579211592674255
+Epoch 10 - Batch 10 - Loss 0.765551745891571
+Epoch 10 - Batch 11 - Loss 0.7615622878074646
+Epoch 10 - Batch 12 - Loss 0.7641748785972595
+Epoch 10 - Batch 13 - Loss 0.763527512550354
+Epoch 10 - Batch 14 - Loss 0.7640027403831482
+Epoch 10 - Batch 15 - Loss 0.7589611411094666
+Epoch 10 - Batch 16 - Loss 0.7576539516448975
+Epoch 10 - Batch 17 - Loss 0.7572544813156128
+Epoch 10 - Batch 18 - Loss 0.7634639143943787
+Epoch 10 - Batch 19 - Loss 0.7847154140472412
+
+EPOCH 10 ...
+Loss = 14.579
+
+Epoch 11 - Batch 1 - Loss 0.7558566331863403
+Epoch 11 - Batch 2 - Loss 0.7607108950614929
+Epoch 11 - Batch 3 - Loss 0.7425779700279236
+Epoch 11 - Batch 4 - Loss 0.7518089413642883
+Epoch 11 - Batch 5 - Loss 0.7501419186592102
+Epoch 11 - Batch 6 - Loss 0.7589774131774902
+Epoch 11 - Batch 7 - Loss 0.749542772769928
+Epoch 11 - Batch 8 - Loss 0.7554078102111816
+Epoch 11 - Batch 9 - Loss 0.7507185339927673
+Epoch 11 - Batch 10 - Loss 0.750030517578125
+Epoch 11 - Batch 11 - Loss 0.7476192712783813
+Epoch 11 - Batch 12 - Loss 0.7432788610458374
+Epoch 11 - Batch 13 - Loss 0.7528638243675232
+Epoch 11 - Batch 14 - Loss 0.7383843064308167
+Epoch 11 - Batch 15 - Loss 0.7378917336463928
+Epoch 11 - Batch 16 - Loss 0.7403018474578857
+Epoch 11 - Batch 17 - Loss 0.7356340289115906
+Epoch 11 - Batch 18 - Loss 0.7439119815826416
+Epoch 11 - Batch 19 - Loss 0.7209307551383972
+
+EPOCH 11 ...
+Loss = 14.187
+
+Epoch 12 - Batch 1 - Loss 0.7408360838890076
+Epoch 12 - Batch 2 - Loss 0.7479416728019714
+Epoch 12 - Batch 3 - Loss 0.7354115843772888
+Epoch 12 - Batch 4 - Loss 0.735750138759613
+Epoch 12 - Batch 5 - Loss 0.7375506162643433
+Epoch 12 - Batch 6 - Loss 0.7285535335540771
+Epoch 12 - Batch 7 - Loss 0.7346144914627075
+Epoch 12 - Batch 8 - Loss 0.7307549118995667
+Epoch 12 - Batch 9 - Loss 0.7325218915939331
+Epoch 12 - Batch 10 - Loss 0.7398236393928528
+Epoch 12 - Batch 11 - Loss 0.7305198907852173
+Epoch 12 - Batch 12 - Loss 0.7322825789451599
+Epoch 12 - Batch 13 - Loss 0.7303141355514526
+Epoch 12 - Batch 14 - Loss 0.7271212339401245
+Epoch 12 - Batch 15 - Loss 0.7302970886230469
+Epoch 12 - Batch 16 - Loss 0.7318288087844849
+Epoch 12 - Batch 17 - Loss 0.7375392317771912
+Epoch 12 - Batch 18 - Loss 0.7257967591285706
+Epoch 12 - Batch 19 - Loss 0.7146264910697937
+
+EPOCH 12 ...
+Loss = 13.924
+
+Epoch 13 - Batch 1 - Loss 0.7274178266525269
+Epoch 13 - Batch 2 - Loss 0.7295652627944946
+Epoch 13 - Batch 3 - Loss 0.7234159708023071
+Epoch 13 - Batch 4 - Loss 0.7271469831466675
+Epoch 13 - Batch 5 - Loss 0.7334030866622925
+Epoch 13 - Batch 6 - Loss 0.7238492965698242
+Epoch 13 - Batch 7 - Loss 0.7204083204269409
+Epoch 13 - Batch 8 - Loss 0.7265088558197021
+Epoch 13 - Batch 9 - Loss 0.7257081866264343
+Epoch 13 - Batch 10 - Loss 0.7257148027420044
+Epoch 13 - Batch 11 - Loss 0.7224788069725037
+Epoch 13 - Batch 12 - Loss 0.7206405401229858
+Epoch 13 - Batch 13 - Loss 0.7205417156219482
+Epoch 13 - Batch 14 - Loss 0.7203864455223083
+Epoch 13 - Batch 15 - Loss 0.7217987179756165
+Epoch 13 - Batch 16 - Loss 0.7150099277496338
+Epoch 13 - Batch 17 - Loss 0.7166041731834412
+Epoch 13 - Batch 18 - Loss 0.717315137386322
+Epoch 13 - Batch 19 - Loss 0.705134391784668
+
+EPOCH 13 ...
+Loss = 13.723
+
+Epoch 14 - Batch 1 - Loss 0.7225643396377563
+Epoch 14 - Batch 2 - Loss 0.7182436585426331
+Epoch 14 - Batch 3 - Loss 0.716400682926178
+Epoch 14 - Batch 4 - Loss 0.7133112549781799
+Epoch 14 - Batch 5 - Loss 0.7156960964202881
+Epoch 14 - Batch 6 - Loss 0.7130817770957947
+Epoch 14 - Batch 7 - Loss 0.7132222652435303
+Epoch 14 - Batch 8 - Loss 0.7151135206222534
+Epoch 14 - Batch 9 - Loss 0.7113222479820251
+Epoch 14 - Batch 10 - Loss 0.7122945189476013
+Epoch 14 - Batch 11 - Loss 0.7100465893745422
+Epoch 14 - Batch 12 - Loss 0.7131929993629456
+Epoch 14 - Batch 13 - Loss 0.7097985744476318
+Epoch 14 - Batch 14 - Loss 0.7118421196937561
+Epoch 14 - Batch 15 - Loss 0.7055260539054871
+Epoch 14 - Batch 16 - Loss 0.7064021825790405
+Epoch 14 - Batch 17 - Loss 0.7132176756858826
+Epoch 14 - Batch 18 - Loss 0.709936797618866
+Epoch 14 - Batch 19 - Loss 0.6993548274040222
+
+EPOCH 14 ...
+Loss = 13.531
+
+Epoch 15 - Batch 1 - Loss 0.703399121761322
+Epoch 15 - Batch 2 - Loss 0.706479549407959
+Epoch 15 - Batch 3 - Loss 0.7046030163764954
+Epoch 15 - Batch 4 - Loss 0.7104637026786804
+Epoch 15 - Batch 5 - Loss 0.7107630968093872
+Epoch 15 - Batch 6 - Loss 0.7099059820175171
+Epoch 15 - Batch 7 - Loss 0.7083675265312195
+Epoch 15 - Batch 8 - Loss 0.7030652761459351
+Epoch 15 - Batch 9 - Loss 0.7051877975463867
+Epoch 15 - Batch 10 - Loss 0.706684947013855
+Epoch 15 - Batch 11 - Loss 0.7057173252105713
+Epoch 15 - Batch 12 - Loss 0.7040241360664368
+Epoch 15 - Batch 13 - Loss 0.7098690271377563
+Epoch 15 - Batch 14 - Loss 0.7005259394645691
+Epoch 15 - Batch 15 - Loss 0.7060077786445618
+Epoch 15 - Batch 16 - Loss 0.7044339776039124
+Epoch 15 - Batch 17 - Loss 0.7007189989089966
+Epoch 15 - Batch 18 - Loss 0.705936074256897
+Epoch 15 - Batch 19 - Loss 0.7015174627304077
+
+EPOCH 15 ...
+Loss = 13.408
+
+Epoch 16 - Batch 1 - Loss 0.6991392970085144
+Epoch 16 - Batch 2 - Loss 0.6985726952552795
+Epoch 16 - Batch 3 - Loss 0.7081271409988403
+Epoch 16 - Batch 4 - Loss 0.7041503190994263
+Epoch 16 - Batch 5 - Loss 0.7022947072982788
+Epoch 16 - Batch 6 - Loss 0.7008138298988342
+Epoch 16 - Batch 7 - Loss 0.7001351118087769
+Epoch 16 - Batch 8 - Loss 0.6992534399032593
+Epoch 16 - Batch 9 - Loss 0.6995310187339783
+Epoch 16 - Batch 10 - Loss 0.6963165402412415
+Epoch 16 - Batch 11 - Loss 0.6957129836082458
+Epoch 16 - Batch 12 - Loss 0.6993004679679871
+Epoch 16 - Batch 13 - Loss 0.6988317966461182
+Epoch 16 - Batch 14 - Loss 0.6964035630226135
+Epoch 16 - Batch 15 - Loss 0.696723997592926
+Epoch 16 - Batch 16 - Loss 0.6947808265686035
+Epoch 16 - Batch 17 - Loss 0.6999828219413757
+Epoch 16 - Batch 18 - Loss 0.6952057480812073
+Epoch 16 - Batch 19 - Loss 0.6908212304115295
+
+EPOCH 16 ...
+Loss = 13.276
+
+Epoch 17 - Batch 1 - Loss 0.6936393976211548
+Epoch 17 - Batch 2 - Loss 0.6941565871238708
+Epoch 17 - Batch 3 - Loss 0.6912809610366821
+Epoch 17 - Batch 4 - Loss 0.6889407634735107
+Epoch 17 - Batch 5 - Loss 0.6972923874855042
+Epoch 17 - Batch 6 - Loss 0.6911062598228455
+Epoch 17 - Batch 7 - Loss 0.6987744569778442
+Epoch 17 - Batch 8 - Loss 0.6915225386619568
+Epoch 17 - Batch 9 - Loss 0.6910966038703918
+Epoch 17 - Batch 10 - Loss 0.6943889856338501
+Epoch 17 - Batch 11 - Loss 0.6926440000534058
+Epoch 17 - Batch 12 - Loss 0.6901512742042542
+Epoch 17 - Batch 13 - Loss 0.6891868710517883
+Epoch 17 - Batch 14 - Loss 0.6923596262931824
+Epoch 17 - Batch 15 - Loss 0.6909850239753723
+Epoch 17 - Batch 16 - Loss 0.6911611557006836
+Epoch 17 - Batch 17 - Loss 0.6901530027389526
+Epoch 17 - Batch 18 - Loss 0.6902171969413757
+Epoch 17 - Batch 19 - Loss 0.6875302791595459
+
+EPOCH 17 ...
+Loss = 13.147
+
+Epoch 18 - Batch 1 - Loss 0.688983678817749
+Epoch 18 - Batch 2 - Loss 0.6870266199111938
+Epoch 18 - Batch 3 - Loss 0.6893578171730042
+Epoch 18 - Batch 4 - Loss 0.6874361038208008
+Epoch 18 - Batch 5 - Loss 0.6884193420410156
+Epoch 18 - Batch 6 - Loss 0.687606155872345
+Epoch 18 - Batch 7 - Loss 0.6879262328147888
+Epoch 18 - Batch 8 - Loss 0.6866804957389832
+Epoch 18 - Batch 9 - Loss 0.6883662939071655
+Epoch 18 - Batch 10 - Loss 0.686852216720581
+Epoch 18 - Batch 11 - Loss 0.6864588260650635
+Epoch 18 - Batch 12 - Loss 0.6870999932289124
+Epoch 18 - Batch 13 - Loss 0.6826781630516052
+Epoch 18 - Batch 14 - Loss 0.6869475245475769
+Epoch 18 - Batch 15 - Loss 0.6817817091941833
+Epoch 18 - Batch 16 - Loss 0.6884153485298157
+Epoch 18 - Batch 17 - Loss 0.6799842119216919
+Epoch 18 - Batch 18 - Loss 0.6842470765113831
+Epoch 18 - Batch 19 - Loss 0.6732228398323059
+
+EPOCH 18 ...
+Loss = 13.029
+
+Epoch 19 - Batch 1 - Loss 0.6789759993553162
+Epoch 19 - Batch 2 - Loss 0.6831612586975098
+Epoch 19 - Batch 3 - Loss 0.6812767386436462
+Epoch 19 - Batch 4 - Loss 0.6817969679832458
+Epoch 19 - Batch 5 - Loss 0.685032308101654
+Epoch 19 - Batch 6 - Loss 0.6809489130973816
+Epoch 19 - Batch 7 - Loss 0.6802248358726501
+Epoch 19 - Batch 8 - Loss 0.6791518926620483
+Epoch 19 - Batch 9 - Loss 0.6818456649780273
+Epoch 19 - Batch 10 - Loss 0.68305504322052
+Epoch 19 - Batch 11 - Loss 0.6779356598854065
+Epoch 19 - Batch 12 - Loss 0.6769227385520935
+Epoch 19 - Batch 13 - Loss 0.679338812828064
+Epoch 19 - Batch 14 - Loss 0.6829918026924133
+Epoch 19 - Batch 15 - Loss 0.6749187111854553
+Epoch 19 - Batch 16 - Loss 0.6767846941947937
+Epoch 19 - Batch 17 - Loss 0.6791931986808777
+Epoch 19 - Batch 18 - Loss 0.6827606558799744
+Epoch 19 - Batch 19 - Loss 0.6673921942710876
+
+EPOCH 19 ...
+Loss = 12.914
+
+Epoch 20 - Batch 1 - Loss 0.6770552396774292
+Epoch 20 - Batch 2 - Loss 0.6768270134925842
+Epoch 20 - Batch 3 - Loss 0.6799032092094421
+Epoch 20 - Batch 4 - Loss 0.6742988228797913
+Epoch 20 - Batch 5 - Loss 0.6752681732177734
+Epoch 20 - Batch 6 - Loss 0.6758498549461365
+Epoch 20 - Batch 7 - Loss 0.6738419532775879
+Epoch 20 - Batch 8 - Loss 0.6756436824798584
+Epoch 20 - Batch 9 - Loss 0.6714417934417725
+Epoch 20 - Batch 10 - Loss 0.6735178828239441
+Epoch 20 - Batch 11 - Loss 0.6755693554878235
+Epoch 20 - Batch 12 - Loss 0.675056517124176
+Epoch 20 - Batch 13 - Loss 0.6770852208137512
+Epoch 20 - Batch 14 - Loss 0.6737982630729675
+Epoch 20 - Batch 15 - Loss 0.6768076419830322
+Epoch 20 - Batch 16 - Loss 0.6764560341835022
+Epoch 20 - Batch 17 - Loss 0.6749911308288574
+Epoch 20 - Batch 18 - Loss 0.6719595789909363
+Epoch 20 - Batch 19 - Loss 0.6696718335151672
+
+EPOCH 20 ...
+Loss = 12.825
+
+Epoch 21 - Batch 1 - Loss 0.6692206263542175
+Epoch 21 - Batch 2 - Loss 0.6762810945510864
+Epoch 21 - Batch 3 - Loss 0.6736716032028198
+Epoch 21 - Batch 4 - Loss 0.6739082932472229
+Epoch 21 - Batch 5 - Loss 0.6731268763542175
+Epoch 21 - Batch 6 - Loss 0.6735340356826782
+Epoch 21 - Batch 7 - Loss 0.672171950340271
+Epoch 21 - Batch 8 - Loss 0.6687793731689453
+Epoch 21 - Batch 9 - Loss 0.6725829839706421
+Epoch 21 - Batch 10 - Loss 0.6678020358085632
+Epoch 21 - Batch 11 - Loss 0.6710997819900513
+Epoch 21 - Batch 12 - Loss 0.6682701706886292
+Epoch 21 - Batch 13 - Loss 0.6655881404876709
+Epoch 21 - Batch 14 - Loss 0.6704596281051636
+Epoch 21 - Batch 15 - Loss 0.6700372695922852
+Epoch 21 - Batch 16 - Loss 0.66766756772995
+Epoch 21 - Batch 17 - Loss 0.6653932929039001
+Epoch 21 - Batch 18 - Loss 0.6693421006202698
+Epoch 21 - Batch 19 - Loss 0.6639121770858765
+
+EPOCH 21 ...
+Loss = 12.733
+
+Epoch 22 - Batch 1 - Loss 0.666386604309082
+Epoch 22 - Batch 2 - Loss 0.6686617732048035
+Epoch 22 - Batch 3 - Loss 0.6704423427581787
+Epoch 22 - Batch 4 - Loss 0.6681645512580872
+Epoch 22 - Batch 5 - Loss 0.6643258333206177
+Epoch 22 - Batch 6 - Loss 0.6641242504119873
+Epoch 22 - Batch 7 - Loss 0.6671651601791382
+Epoch 22 - Batch 8 - Loss 0.6644289493560791
+Epoch 22 - Batch 9 - Loss 0.6619210839271545
+Epoch 22 - Batch 10 - Loss 0.6639719009399414
+Epoch 22 - Batch 11 - Loss 0.6611820459365845
+Epoch 22 - Batch 12 - Loss 0.6614767909049988
+Epoch 22 - Batch 13 - Loss 0.6666533350944519
+Epoch 22 - Batch 14 - Loss 0.664311408996582
+Epoch 22 - Batch 15 - Loss 0.6616899967193604
+Epoch 22 - Batch 16 - Loss 0.6626706719398499
+Epoch 22 - Batch 17 - Loss 0.661359429359436
+Epoch 22 - Batch 18 - Loss 0.6642268300056458
+Epoch 22 - Batch 19 - Loss 0.6596137881278992
+
+EPOCH 22 ...
+Loss = 12.623
+
+Epoch 23 - Batch 1 - Loss 0.6621606349945068
+Epoch 23 - Batch 2 - Loss 0.6606693863868713
+Epoch 23 - Batch 3 - Loss 0.661823034286499
+Epoch 23 - Batch 4 - Loss 0.6608623266220093
+Epoch 23 - Batch 5 - Loss 0.660362184047699
+Epoch 23 - Batch 6 - Loss 0.664685070514679
+Epoch 23 - Batch 7 - Loss 0.6595407128334045
+Epoch 23 - Batch 8 - Loss 0.6619495153427124
+Epoch 23 - Batch 9 - Loss 0.6617218255996704
+Epoch 23 - Batch 10 - Loss 0.6575061082839966
+Epoch 23 - Batch 11 - Loss 0.6566418409347534
+Epoch 23 - Batch 12 - Loss 0.654793381690979
+Epoch 23 - Batch 13 - Loss 0.6580009460449219
+Epoch 23 - Batch 14 - Loss 0.6554516553878784
+Epoch 23 - Batch 15 - Loss 0.6579940319061279
+Epoch 23 - Batch 16 - Loss 0.6534470915794373
+Epoch 23 - Batch 17 - Loss 0.6559442281723022
+Epoch 23 - Batch 18 - Loss 0.6512561440467834
+Epoch 23 - Batch 19 - Loss 0.6558099389076233
+
+EPOCH 23 ...
+Loss = 12.511
+
+Epoch 24 - Batch 1 - Loss 0.6539509892463684
+Epoch 24 - Batch 2 - Loss 0.6525192260742188
+Epoch 24 - Batch 3 - Loss 0.6561195850372314
+Epoch 24 - Batch 4 - Loss 0.6538413763046265
+Epoch 24 - Batch 5 - Loss 0.6518502831459045
+Epoch 24 - Batch 6 - Loss 0.6519945859909058
+Epoch 24 - Batch 7 - Loss 0.6533128619194031
+Epoch 24 - Batch 8 - Loss 0.6542714238166809
+Epoch 24 - Batch 9 - Loss 0.653727114200592
+Epoch 24 - Batch 10 - Loss 0.6513063311576843
+Epoch 24 - Batch 11 - Loss 0.6522551774978638
+Epoch 24 - Batch 12 - Loss 0.6476737260818481
+Epoch 24 - Batch 13 - Loss 0.6484045386314392
+Epoch 24 - Batch 14 - Loss 0.6516599655151367
+Epoch 24 - Batch 15 - Loss 0.6479541659355164
+Epoch 24 - Batch 16 - Loss 0.648058295249939
+Epoch 24 - Batch 17 - Loss 0.6487400531768799
+Epoch 24 - Batch 18 - Loss 0.6528666019439697
+Epoch 24 - Batch 19 - Loss 0.6550357341766357
+
+EPOCH 24 ...
+Loss = 12.386
+
+Epoch 25 - Batch 1 - Loss 0.6464377641677856
+Epoch 25 - Batch 2 - Loss 0.6447930932044983
+Epoch 25 - Batch 3 - Loss 0.6469337940216064
+Epoch 25 - Batch 4 - Loss 0.6452573537826538
+Epoch 25 - Batch 5 - Loss 0.6488731503486633
+Epoch 25 - Batch 6 - Loss 0.6465969681739807
+Epoch 25 - Batch 7 - Loss 0.6479671597480774
+Epoch 25 - Batch 8 - Loss 0.6435381770133972
+Epoch 25 - Batch 9 - Loss 0.6401734352111816
+Epoch 25 - Batch 10 - Loss 0.6477030515670776
+Epoch 25 - Batch 11 - Loss 0.6419938206672668
+Epoch 25 - Batch 12 - Loss 0.6505658626556396
+Epoch 25 - Batch 13 - Loss 0.6431953310966492
+Epoch 25 - Batch 14 - Loss 0.6434957981109619
+Epoch 25 - Batch 15 - Loss 0.6429838538169861
+Epoch 25 - Batch 16 - Loss 0.6422328352928162
+Epoch 25 - Batch 17 - Loss 0.6399673223495483
+Epoch 25 - Batch 18 - Loss 0.6406272053718567
+Epoch 25 - Batch 19 - Loss 0.6544278860092163
+
+EPOCH 25 ...
+Loss = 12.258
+
+Epoch 26 - Batch 1 - Loss 0.6415282487869263
+Epoch 26 - Batch 2 - Loss 0.6413885354995728
+Epoch 26 - Batch 3 - Loss 0.6406013369560242
+Epoch 26 - Batch 4 - Loss 0.6397192478179932
+Epoch 26 - Batch 5 - Loss 0.6404045224189758
+Epoch 26 - Batch 6 - Loss 0.6377506256103516
+Epoch 26 - Batch 7 - Loss 0.6388568878173828
+Epoch 26 - Batch 8 - Loss 0.6364806294441223
+Epoch 26 - Batch 9 - Loss 0.637075662612915
+Epoch 26 - Batch 10 - Loss 0.6340017318725586
+Epoch 26 - Batch 11 - Loss 0.6411139965057373
+Epoch 26 - Batch 12 - Loss 0.6337271332740784
+Epoch 26 - Batch 13 - Loss 0.6331276297569275
+Epoch 26 - Batch 14 - Loss 0.6339859962463379
+Epoch 26 - Batch 15 - Loss 0.6302726864814758
+Epoch 26 - Batch 16 - Loss 0.6325749754905701
+Epoch 26 - Batch 17 - Loss 0.634833574295044
+Epoch 26 - Batch 18 - Loss 0.6305614113807678
+Epoch 26 - Batch 19 - Loss 0.6392990350723267
+
+EPOCH 26 ...
+Loss = 12.097
+
+Epoch 27 - Batch 1 - Loss 0.6452847719192505
+Epoch 27 - Batch 2 - Loss 0.6381826996803284
+Epoch 27 - Batch 3 - Loss 0.6333950161933899
+Epoch 27 - Batch 4 - Loss 0.6370446681976318
+Epoch 27 - Batch 5 - Loss 0.6256852149963379
+Epoch 27 - Batch 6 - Loss 0.6302061080932617
+Epoch 27 - Batch 7 - Loss 0.6268736720085144
+Epoch 27 - Batch 8 - Loss 0.6298266649246216
+Epoch 27 - Batch 9 - Loss 0.6296130418777466
+Epoch 27 - Batch 10 - Loss 0.6251147389411926
+Epoch 27 - Batch 11 - Loss 0.6220309138298035
+Epoch 27 - Batch 12 - Loss 0.629493236541748
+Epoch 27 - Batch 13 - Loss 0.625820517539978
+Epoch 27 - Batch 14 - Loss 0.6263560652732849
+Epoch 27 - Batch 15 - Loss 0.6197576522827148
+Epoch 27 - Batch 16 - Loss 0.6285356283187866
+Epoch 27 - Batch 17 - Loss 0.6259211897850037
+Epoch 27 - Batch 18 - Loss 0.6214051842689514
+Epoch 27 - Batch 19 - Loss 0.6221002340316772
+
+EPOCH 27 ...
+Loss = 11.943
+
+Epoch 28 - Batch 1 - Loss 0.6176509261131287
+Epoch 28 - Batch 2 - Loss 0.6192956566810608
+Epoch 28 - Batch 3 - Loss 0.6217400431632996
+Epoch 28 - Batch 4 - Loss 0.6189368963241577
+Epoch 28 - Batch 5 - Loss 0.619096040725708
+Epoch 28 - Batch 6 - Loss 0.6173924803733826
+Epoch 28 - Batch 7 - Loss 0.6149268746376038
+Epoch 28 - Batch 8 - Loss 0.6172553300857544
+Epoch 28 - Batch 9 - Loss 0.6184365749359131
+Epoch 28 - Batch 10 - Loss 0.6190052628517151
+Epoch 28 - Batch 11 - Loss 0.6103408336639404
+Epoch 28 - Batch 12 - Loss 0.6124042272567749
+Epoch 28 - Batch 13 - Loss 0.6137250065803528
+Epoch 28 - Batch 14 - Loss 0.620686411857605
+Epoch 28 - Batch 15 - Loss 0.6132907271385193
+Epoch 28 - Batch 16 - Loss 0.6161242723464966
+Epoch 28 - Batch 17 - Loss 0.606206476688385
+Epoch 28 - Batch 18 - Loss 0.6086554527282715
+Epoch 28 - Batch 19 - Loss 0.6370453834533691
+
+EPOCH 28 ...
+Loss = 11.722
+
+Epoch 29 - Batch 1 - Loss 0.6311262845993042
+Epoch 29 - Batch 2 - Loss 0.616207480430603
+Epoch 29 - Batch 3 - Loss 0.6206215620040894
+Epoch 29 - Batch 4 - Loss 0.6076333522796631
+Epoch 29 - Batch 5 - Loss 0.6108262538909912
+Epoch 29 - Batch 6 - Loss 0.6062688231468201
+Epoch 29 - Batch 7 - Loss 0.6134724617004395
+Epoch 29 - Batch 8 - Loss 0.6199491024017334
+Epoch 29 - Batch 9 - Loss 0.6032108664512634
+Epoch 29 - Batch 10 - Loss 0.6114336252212524
+Epoch 29 - Batch 11 - Loss 0.6109343767166138
+Epoch 29 - Batch 12 - Loss 0.6158128976821899
+Epoch 29 - Batch 13 - Loss 0.6048592925071716
+Epoch 29 - Batch 14 - Loss 0.5998567938804626
+Epoch 29 - Batch 15 - Loss 0.6011651158332825
+Epoch 29 - Batch 16 - Loss 0.5999602675437927
+Epoch 29 - Batch 17 - Loss 0.595967173576355
+Epoch 29 - Batch 18 - Loss 0.5977306365966797
+Epoch 29 - Batch 19 - Loss 0.6110166311264038
+
+EPOCH 29 ...
+Loss = 11.578
+
+Epoch 30 - Batch 1 - Loss 0.6079074740409851
+Epoch 30 - Batch 2 - Loss 0.5928851366043091
+Epoch 30 - Batch 3 - Loss 0.6093426942825317
+Epoch 30 - Batch 4 - Loss 0.5921942591667175
+Epoch 30 - Batch 5 - Loss 0.5950435996055603
+Epoch 30 - Batch 6 - Loss 0.5887323617935181
+Epoch 30 - Batch 7 - Loss 0.594435453414917
+Epoch 30 - Batch 8 - Loss 0.5888087749481201
+Epoch 30 - Batch 9 - Loss 0.5894219875335693
+Epoch 30 - Batch 10 - Loss 0.5971639156341553
+Epoch 30 - Batch 11 - Loss 0.5872987508773804
+Epoch 30 - Batch 12 - Loss 0.5863513350486755
+Epoch 30 - Batch 13 - Loss 0.5822533369064331
+Epoch 30 - Batch 14 - Loss 0.5822377800941467
+Epoch 30 - Batch 15 - Loss 0.5760945677757263
+Epoch 30 - Batch 16 - Loss 0.5785095691680908
+Epoch 30 - Batch 17 - Loss 0.5856562852859497
+Epoch 30 - Batch 18 - Loss 0.581459105014801
+Epoch 30 - Batch 19 - Loss 0.5852562785148621
+
+EPOCH 30 ...
+Loss = 11.201
+
+Epoch 31 - Batch 1 - Loss 0.585380494594574
+Epoch 31 - Batch 2 - Loss 0.5769820809364319
+Epoch 31 - Batch 3 - Loss 0.5720746517181396
+Epoch 31 - Batch 4 - Loss 0.5759998559951782
+Epoch 31 - Batch 5 - Loss 0.582025408744812
+Epoch 31 - Batch 6 - Loss 0.5784833431243896
+Epoch 31 - Batch 7 - Loss 0.58028244972229
+Epoch 31 - Batch 8 - Loss 0.5688561201095581
+Epoch 31 - Batch 9 - Loss 0.5672774910926819
+Epoch 31 - Batch 10 - Loss 0.564534604549408
+Epoch 31 - Batch 11 - Loss 0.5603269338607788
+Epoch 31 - Batch 12 - Loss 0.5640159845352173
+Epoch 31 - Batch 13 - Loss 0.5602638125419617
+Epoch 31 - Batch 14 - Loss 0.5720235109329224
+Epoch 31 - Batch 15 - Loss 0.569322943687439
+Epoch 31 - Batch 16 - Loss 0.5601781010627747
+Epoch 31 - Batch 17 - Loss 0.5648356676101685
+Epoch 31 - Batch 18 - Loss 0.5588094592094421
+Epoch 31 - Batch 19 - Loss 0.6142561435699463
+
+EPOCH 31 ...
+Loss = 10.876
+
+Epoch 32 - Batch 1 - Loss 0.5929888486862183
+Epoch 32 - Batch 2 - Loss 0.5574077367782593
+Epoch 32 - Batch 3 - Loss 0.5674200057983398
+Epoch 32 - Batch 4 - Loss 0.5669559240341187
+Epoch 32 - Batch 5 - Loss 0.5639746785163879
+Epoch 32 - Batch 6 - Loss 0.5586543083190918
+Epoch 32 - Batch 7 - Loss 0.5580958127975464
+Epoch 32 - Batch 8 - Loss 0.5630902647972107
+Epoch 32 - Batch 9 - Loss 0.5628617405891418
+Epoch 32 - Batch 10 - Loss 0.5449689030647278
+Epoch 32 - Batch 11 - Loss 0.5515849590301514
+Epoch 32 - Batch 12 - Loss 0.5432457327842712
+Epoch 32 - Batch 13 - Loss 0.5502579808235168
+Epoch 32 - Batch 14 - Loss 0.5397517681121826
+Epoch 32 - Batch 15 - Loss 0.5439379215240479
+Epoch 32 - Batch 16 - Loss 0.5475859045982361
+Epoch 32 - Batch 17 - Loss 0.546775758266449
+Epoch 32 - Batch 18 - Loss 0.536222517490387
+Epoch 32 - Batch 19 - Loss 0.5790728330612183
+
+EPOCH 32 ...
+Loss = 10.575
+
+Epoch 33 - Batch 1 - Loss 0.5337793827056885
+Epoch 33 - Batch 2 - Loss 0.5419518947601318
+Epoch 33 - Batch 3 - Loss 0.5326647162437439
+Epoch 33 - Batch 4 - Loss 0.5320289134979248
+Epoch 33 - Batch 5 - Loss 0.5305823683738708
+Epoch 33 - Batch 6 - Loss 0.5341320633888245
+Epoch 33 - Batch 7 - Loss 0.5327782034873962
+Epoch 33 - Batch 8 - Loss 0.5209728479385376
+Epoch 33 - Batch 9 - Loss 0.5288846492767334
+Epoch 33 - Batch 10 - Loss 0.5117334723472595
+Epoch 33 - Batch 11 - Loss 0.528154194355011
+Epoch 33 - Batch 12 - Loss 0.5118690729141235
+Epoch 33 - Batch 13 - Loss 0.5265832543373108
+Epoch 33 - Batch 14 - Loss 0.5306919813156128
+Epoch 33 - Batch 15 - Loss 0.5103318691253662
+Epoch 33 - Batch 16 - Loss 0.5134270191192627
+Epoch 33 - Batch 17 - Loss 0.5151270627975464
+Epoch 33 - Batch 18 - Loss 0.49648693203926086
+Epoch 33 - Batch 19 - Loss 0.4915017783641815
+
+EPOCH 33 ...
+Loss = 9.924
+
+Epoch 34 - Batch 1 - Loss 0.517613410949707
+Epoch 34 - Batch 2 - Loss 0.5103484988212585
+Epoch 34 - Batch 3 - Loss 0.5042176842689514
+Epoch 34 - Batch 4 - Loss 0.4959632456302643
+Epoch 34 - Batch 5 - Loss 0.4945860505104065
+Epoch 34 - Batch 6 - Loss 0.4927178621292114
+Epoch 34 - Batch 7 - Loss 0.5051013231277466
+Epoch 34 - Batch 8 - Loss 0.5028148889541626
+Epoch 34 - Batch 9 - Loss 0.4976275861263275
+Epoch 34 - Batch 10 - Loss 0.489213228225708
+Epoch 34 - Batch 11 - Loss 0.4879433512687683
+Epoch 34 - Batch 12 - Loss 0.4829471707344055
+Epoch 34 - Batch 13 - Loss 0.48574936389923096
+Epoch 34 - Batch 14 - Loss 0.4664284288883209
+Epoch 34 - Batch 15 - Loss 0.4920446276664734
+Epoch 34 - Batch 16 - Loss 0.4821016490459442
+Epoch 34 - Batch 17 - Loss 0.47813504934310913
+Epoch 34 - Batch 18 - Loss 0.49165093898773193
+Epoch 34 - Batch 19 - Loss 0.4171082377433777
+
+EPOCH 34 ...
+Loss = 9.294
+
+Epoch 35 - Batch 1 - Loss 0.46616309881210327
+Epoch 35 - Batch 2 - Loss 0.4741237163543701
+Epoch 35 - Batch 3 - Loss 0.46274426579475403
+Epoch 35 - Batch 4 - Loss 0.4655689299106598
+Epoch 35 - Batch 5 - Loss 0.47495201230049133
+Epoch 35 - Batch 6 - Loss 0.4561767578125
+Epoch 35 - Batch 7 - Loss 0.4747045338153839
+Epoch 35 - Batch 8 - Loss 0.44607576727867126
+Epoch 35 - Batch 9 - Loss 0.4542321562767029
+Epoch 35 - Batch 10 - Loss 0.4451112449169159
+Epoch 35 - Batch 11 - Loss 0.4597671926021576
+Epoch 35 - Batch 12 - Loss 0.44352689385414124
+Epoch 35 - Batch 13 - Loss 0.44332244992256165
+Epoch 35 - Batch 14 - Loss 0.4298572540283203
+Epoch 35 - Batch 15 - Loss 0.4490199685096741
+Epoch 35 - Batch 16 - Loss 0.44272831082344055
+Epoch 35 - Batch 17 - Loss 0.44015803933143616
+Epoch 35 - Batch 18 - Loss 0.4458928108215332
+Epoch 35 - Batch 19 - Loss 0.46848738193511963
+
+EPOCH 35 ...
+Loss = 8.643
+
+Epoch 36 - Batch 1 - Loss 0.4126150906085968
+Epoch 36 - Batch 2 - Loss 0.419559508562088
+Epoch 36 - Batch 3 - Loss 0.43552619218826294
+Epoch 36 - Batch 4 - Loss 0.4178554117679596
+Epoch 36 - Batch 5 - Loss 0.41676002740859985
+Epoch 36 - Batch 6 - Loss 0.4221345782279968
+Epoch 36 - Batch 7 - Loss 0.4109428822994232
+Epoch 36 - Batch 8 - Loss 0.41325104236602783
+Epoch 36 - Batch 9 - Loss 0.44526994228363037
+Epoch 36 - Batch 10 - Loss 0.4194844663143158
+Epoch 36 - Batch 11 - Loss 0.4210071861743927
+Epoch 36 - Batch 12 - Loss 0.4065045714378357
+Epoch 36 - Batch 13 - Loss 0.3923994302749634
+Epoch 36 - Batch 14 - Loss 0.4096466600894928
+Epoch 36 - Batch 15 - Loss 0.3957500457763672
+Epoch 36 - Batch 16 - Loss 0.4095671772956848
+Epoch 36 - Batch 17 - Loss 0.4124222695827484
+Epoch 36 - Batch 18 - Loss 0.3933413326740265
+Epoch 36 - Batch 19 - Loss 0.32764044404029846
+
+EPOCH 36 ...
+Loss = 7.782
+
+Epoch 37 - Batch 1 - Loss 0.3802987337112427
+Epoch 37 - Batch 2 - Loss 0.3880448639392853
+Epoch 37 - Batch 3 - Loss 0.3816506266593933
+Epoch 37 - Batch 4 - Loss 0.3967093527317047
+Epoch 37 - Batch 5 - Loss 0.3793681263923645
+Epoch 37 - Batch 6 - Loss 0.3884779214859009
+Epoch 37 - Batch 7 - Loss 0.36661818623542786
+Epoch 37 - Batch 8 - Loss 0.379280686378479
+Epoch 37 - Batch 9 - Loss 0.3561607301235199
+Epoch 37 - Batch 10 - Loss 0.383992075920105
+Epoch 37 - Batch 11 - Loss 0.36217832565307617
+Epoch 37 - Batch 12 - Loss 0.3565356433391571
+Epoch 37 - Batch 13 - Loss 0.3624751567840576
+Epoch 37 - Batch 14 - Loss 0.35228410363197327
+Epoch 37 - Batch 15 - Loss 0.3545834422111511
+Epoch 37 - Batch 16 - Loss 0.36938467621803284
+Epoch 37 - Batch 17 - Loss 0.35759857296943665
+Epoch 37 - Batch 18 - Loss 0.37537330389022827
+Epoch 37 - Batch 19 - Loss 0.3821648359298706
+
+EPOCH 37 ...
+Loss = 7.073
+
+Epoch 38 - Batch 1 - Loss 0.34457069635391235
+Epoch 38 - Batch 2 - Loss 0.3301103711128235
+Epoch 38 - Batch 3 - Loss 0.3557315468788147
+Epoch 38 - Batch 4 - Loss 0.33474940061569214
+Epoch 38 - Batch 5 - Loss 0.34224849939346313
+Epoch 38 - Batch 6 - Loss 0.3562314212322235
+Epoch 38 - Batch 7 - Loss 0.34967902302742004
+Epoch 38 - Batch 8 - Loss 0.33265483379364014
+Epoch 38 - Batch 9 - Loss 0.34011712670326233
+Epoch 38 - Batch 10 - Loss 0.33665207028388977
+Epoch 38 - Batch 11 - Loss 0.3172498047351837
+Epoch 38 - Batch 12 - Loss 0.32552000880241394
+Epoch 38 - Batch 13 - Loss 0.31715866923332214
+Epoch 38 - Batch 14 - Loss 0.3326443135738373
+Epoch 38 - Batch 15 - Loss 0.32937729358673096
+Epoch 38 - Batch 16 - Loss 0.30696961283683777
+Epoch 38 - Batch 17 - Loss 0.3377007842063904
+Epoch 38 - Batch 18 - Loss 0.28684747219085693
+Epoch 38 - Batch 19 - Loss 0.24529480934143066
+
+EPOCH 38 ...
+Loss = 6.222
+
+Epoch 39 - Batch 1 - Loss 0.3453530967235565
+Epoch 39 - Batch 2 - Loss 0.3018192648887634
+Epoch 39 - Batch 3 - Loss 0.3496825098991394
+Epoch 39 - Batch 4 - Loss 0.32202598452568054
+Epoch 39 - Batch 5 - Loss 0.29895904660224915
+Epoch 39 - Batch 6 - Loss 0.2925066351890564
+Epoch 39 - Batch 7 - Loss 0.3142179846763611
+Epoch 39 - Batch 8 - Loss 0.30926525592803955
+Epoch 39 - Batch 9 - Loss 0.3070220947265625
+Epoch 39 - Batch 10 - Loss 0.29276254773139954
+Epoch 39 - Batch 11 - Loss 0.28979039192199707
+Epoch 39 - Batch 12 - Loss 0.32202383875846863
+Epoch 39 - Batch 13 - Loss 0.2726231515407562
+Epoch 39 - Batch 14 - Loss 0.2914452850818634
+Epoch 39 - Batch 15 - Loss 0.3234691917896271
+Epoch 39 - Batch 16 - Loss 0.26082998514175415
+Epoch 39 - Batch 17 - Loss 0.2861369550228119
+Epoch 39 - Batch 18 - Loss 0.312160462141037
+Epoch 39 - Batch 19 - Loss 0.40607309341430664
+
+EPOCH 39 ...
+Loss = 5.898
+
+Epoch 40 - Batch 1 - Loss 0.316683828830719
+Epoch 40 - Batch 2 - Loss 0.3901159465312958
+Epoch 40 - Batch 3 - Loss 0.2972676455974579
+Epoch 40 - Batch 4 - Loss 0.2865680158138275
+Epoch 40 - Batch 5 - Loss 0.3111403286457062
+Epoch 40 - Batch 6 - Loss 0.3320208787918091
+Epoch 40 - Batch 7 - Loss 0.27084648609161377
+Epoch 40 - Batch 8 - Loss 0.2803727388381958
+Epoch 40 - Batch 9 - Loss 0.29754069447517395
+Epoch 40 - Batch 10 - Loss 0.2862183749675751
+Epoch 40 - Batch 11 - Loss 0.25596585869789124
+Epoch 40 - Batch 12 - Loss 0.25804397463798523
+Epoch 40 - Batch 13 - Loss 0.26000675559043884
+Epoch 40 - Batch 14 - Loss 0.29713475704193115
+Epoch 40 - Batch 15 - Loss 0.26967301964759827
+Epoch 40 - Batch 16 - Loss 0.2777455747127533
+Epoch 40 - Batch 17 - Loss 0.26682668924331665
+Epoch 40 - Batch 18 - Loss 0.25606924295425415
+Epoch 40 - Batch 19 - Loss 0.2868765890598297
+
+EPOCH 40 ...
+Loss = 5.497
+
+Epoch 41 - Batch 1 - Loss 0.2650316655635834
+Epoch 41 - Batch 2 - Loss 0.322102814912796
+Epoch 41 - Batch 3 - Loss 0.29678890109062195
+Epoch 41 - Batch 4 - Loss 0.2703123688697815
+Epoch 41 - Batch 5 - Loss 0.2989368736743927
+Epoch 41 - Batch 6 - Loss 0.2810671627521515
+Epoch 41 - Batch 7 - Loss 0.2549037039279938
+Epoch 41 - Batch 8 - Loss 0.258113831281662
+Epoch 41 - Batch 9 - Loss 0.2595197558403015
+Epoch 41 - Batch 10 - Loss 0.28028589487075806
+Epoch 41 - Batch 11 - Loss 0.260311096906662
+Epoch 41 - Batch 12 - Loss 0.27177345752716064
+Epoch 41 - Batch 13 - Loss 0.26703566312789917
+Epoch 41 - Batch 14 - Loss 0.22533868253231049
+Epoch 41 - Batch 15 - Loss 0.2632604241371155
+Epoch 41 - Batch 16 - Loss 0.23043090105056763
+Epoch 41 - Batch 17 - Loss 0.23853623867034912
+Epoch 41 - Batch 18 - Loss 0.24006883800029755
+Epoch 41 - Batch 19 - Loss 0.1897951364517212
+
+EPOCH 41 ...
+Loss = 4.974
+
+Epoch 42 - Batch 1 - Loss 0.2467268854379654
+Epoch 42 - Batch 2 - Loss 0.24425508081912994
+Epoch 42 - Batch 3 - Loss 0.23827224969863892
+Epoch 42 - Batch 4 - Loss 0.25994229316711426
+Epoch 42 - Batch 5 - Loss 0.2582564949989319
+Epoch 42 - Batch 6 - Loss 0.2409248799085617
+Epoch 42 - Batch 7 - Loss 0.2602909207344055
+Epoch 42 - Batch 8 - Loss 0.22778913378715515
+Epoch 42 - Batch 9 - Loss 0.26416686177253723
+Epoch 42 - Batch 10 - Loss 0.256282776594162
+Epoch 42 - Batch 11 - Loss 0.23563313484191895
+Epoch 42 - Batch 12 - Loss 0.2230222225189209
+Epoch 42 - Batch 13 - Loss 0.24049140512943268
+Epoch 42 - Batch 14 - Loss 0.24395765364170074
+Epoch 42 - Batch 15 - Loss 0.24398081004619598
+Epoch 42 - Batch 16 - Loss 0.21580955386161804
+Epoch 42 - Batch 17 - Loss 0.23007838428020477
+Epoch 42 - Batch 18 - Loss 0.21719948947429657
+Epoch 42 - Batch 19 - Loss 0.19193288683891296
+
+EPOCH 42 ...
+Loss = 4.539
+
+Epoch 43 - Batch 1 - Loss 0.21641559898853302
+Epoch 43 - Batch 2 - Loss 0.22882837057113647
+Epoch 43 - Batch 3 - Loss 0.22814048826694489
+Epoch 43 - Batch 4 - Loss 0.24221204221248627
+Epoch 43 - Batch 5 - Loss 0.25097694993019104
+Epoch 43 - Batch 6 - Loss 0.29917111992836
+Epoch 43 - Batch 7 - Loss 0.2217472940683365
+Epoch 43 - Batch 8 - Loss 0.2456722855567932
+Epoch 43 - Batch 9 - Loss 0.2669117748737335
+Epoch 43 - Batch 10 - Loss 0.29295873641967773
+Epoch 43 - Batch 11 - Loss 0.22807100415229797
+Epoch 43 - Batch 12 - Loss 0.23813487589359283
+Epoch 43 - Batch 13 - Loss 0.23608514666557312
+Epoch 43 - Batch 14 - Loss 0.25286757946014404
+Epoch 43 - Batch 15 - Loss 0.21720008552074432
+Epoch 43 - Batch 16 - Loss 0.21638920903205872
+Epoch 43 - Batch 17 - Loss 0.21545258164405823
+Epoch 43 - Batch 18 - Loss 0.22582301497459412
+Epoch 43 - Batch 19 - Loss 0.2156737595796585
+
+EPOCH 43 ...
+Loss = 4.539
+
+Epoch 44 - Batch 1 - Loss 0.2224423587322235
+Epoch 44 - Batch 2 - Loss 0.21915382146835327
+Epoch 44 - Batch 3 - Loss 0.23167824745178223
+Epoch 44 - Batch 4 - Loss 0.23624365031719208
+Epoch 44 - Batch 5 - Loss 0.23162229359149933
+Epoch 44 - Batch 6 - Loss 0.24845300614833832
+Epoch 44 - Batch 7 - Loss 0.23153626918792725
+Epoch 44 - Batch 8 - Loss 0.196577787399292
+Epoch 44 - Batch 9 - Loss 0.22238479554653168
+Epoch 44 - Batch 10 - Loss 0.19604450464248657
+Epoch 44 - Batch 11 - Loss 0.20516540110111237
+Epoch 44 - Batch 12 - Loss 0.23493525385856628
+Epoch 44 - Batch 13 - Loss 0.2259565144777298
+Epoch 44 - Batch 14 - Loss 0.2015525847673416
+Epoch 44 - Batch 15 - Loss 0.21956519782543182
+Epoch 44 - Batch 16 - Loss 0.2053905874490738
+Epoch 44 - Batch 17 - Loss 0.21290943026542664
+Epoch 44 - Batch 18 - Loss 0.2104809433221817
+Epoch 44 - Batch 19 - Loss 0.2134450227022171
+
+EPOCH 44 ...
+Loss = 4.166
+
+Epoch 45 - Batch 1 - Loss 0.20266130566596985
+Epoch 45 - Batch 2 - Loss 0.22981326282024384
+Epoch 45 - Batch 3 - Loss 0.21444211900234222
+Epoch 45 - Batch 4 - Loss 0.21250824630260468
+Epoch 45 - Batch 5 - Loss 0.21536444127559662
+Epoch 45 - Batch 6 - Loss 0.18876157701015472
+Epoch 45 - Batch 7 - Loss 0.22271840274333954
+Epoch 45 - Batch 8 - Loss 0.22842413187026978
+Epoch 45 - Batch 9 - Loss 0.22842925786972046
+Epoch 45 - Batch 10 - Loss 0.2069670855998993
+Epoch 45 - Batch 11 - Loss 0.2165752649307251
+Epoch 45 - Batch 12 - Loss 0.21828435361385345
+Epoch 45 - Batch 13 - Loss 0.21383148431777954
+Epoch 45 - Batch 14 - Loss 0.22281678020954132
+Epoch 45 - Batch 15 - Loss 0.21486526727676392
+Epoch 45 - Batch 16 - Loss 0.19862917065620422
+Epoch 45 - Batch 17 - Loss 0.20719899237155914
+Epoch 45 - Batch 18 - Loss 0.21953511238098145
+Epoch 45 - Batch 19 - Loss 0.255235880613327
+
+EPOCH 45 ...
+Loss = 4.117
+
+Epoch 46 - Batch 1 - Loss 0.1973918080329895
+Epoch 46 - Batch 2 - Loss 0.19472655653953552
+Epoch 46 - Batch 3 - Loss 0.19989348948001862
+Epoch 46 - Batch 4 - Loss 0.20087668299674988
+Epoch 46 - Batch 5 - Loss 0.20334631204605103
+Epoch 46 - Batch 6 - Loss 0.20179542899131775
+Epoch 46 - Batch 7 - Loss 0.19423876702785492
+Epoch 46 - Batch 8 - Loss 0.21395982801914215
+Epoch 46 - Batch 9 - Loss 0.21748070418834686
+Epoch 46 - Batch 10 - Loss 0.1817568689584732
+Epoch 46 - Batch 11 - Loss 0.20294597744941711
+Epoch 46 - Batch 12 - Loss 0.180729478597641
+Epoch 46 - Batch 13 - Loss 0.23613537847995758
+Epoch 46 - Batch 14 - Loss 0.2093082219362259
+Epoch 46 - Batch 15 - Loss 0.19753021001815796
+Epoch 46 - Batch 16 - Loss 0.20525461435317993
+Epoch 46 - Batch 17 - Loss 0.22047103941440582
+Epoch 46 - Batch 18 - Loss 0.21439598500728607
+Epoch 46 - Batch 19 - Loss 0.20083215832710266
+
+EPOCH 46 ...
+Loss = 3.873
+
+Epoch 47 - Batch 1 - Loss 0.1988123506307602
+Epoch 47 - Batch 2 - Loss 0.20036646723747253
+Epoch 47 - Batch 3 - Loss 0.20882801711559296
+Epoch 47 - Batch 4 - Loss 0.1709202527999878
+Epoch 47 - Batch 5 - Loss 0.1974617838859558
+Epoch 47 - Batch 6 - Loss 0.17293813824653625
+Epoch 47 - Batch 7 - Loss 0.2086799442768097
+Epoch 47 - Batch 8 - Loss 0.21110811829566956
+Epoch 47 - Batch 9 - Loss 0.19476467370986938
+Epoch 47 - Batch 10 - Loss 0.17631421983242035
+Epoch 47 - Batch 11 - Loss 0.19445791840553284
+Epoch 47 - Batch 12 - Loss 0.19264847040176392
+Epoch 47 - Batch 13 - Loss 0.18122583627700806
+Epoch 47 - Batch 14 - Loss 0.20568658411502838
+Epoch 47 - Batch 15 - Loss 0.22102195024490356
+Epoch 47 - Batch 16 - Loss 0.19310633838176727
+Epoch 47 - Batch 17 - Loss 0.20295816659927368
+Epoch 47 - Batch 18 - Loss 0.1843511015176773
+Epoch 47 - Batch 19 - Loss 0.17055638134479523
+
+EPOCH 47 ...
+Loss = 3.686
+
+Epoch 48 - Batch 1 - Loss 0.1902027130126953
+Epoch 48 - Batch 2 - Loss 0.2043563276529312
+Epoch 48 - Batch 3 - Loss 0.17373457551002502
+Epoch 48 - Batch 4 - Loss 0.1960827261209488
+Epoch 48 - Batch 5 - Loss 0.16967090964317322
+Epoch 48 - Batch 6 - Loss 0.18186846375465393
+Epoch 48 - Batch 7 - Loss 0.20792153477668762
+Epoch 48 - Batch 8 - Loss 0.1764884889125824
+Epoch 48 - Batch 9 - Loss 0.19007009267807007
+Epoch 48 - Batch 10 - Loss 0.2169468104839325
+Epoch 48 - Batch 11 - Loss 0.17576907575130463
+Epoch 48 - Batch 12 - Loss 0.18344447016716003
+Epoch 48 - Batch 13 - Loss 0.17697812616825104
+Epoch 48 - Batch 14 - Loss 0.17522582411766052
+Epoch 48 - Batch 15 - Loss 0.21137550473213196
+Epoch 48 - Batch 16 - Loss 0.18337875604629517
+Epoch 48 - Batch 17 - Loss 0.20425797998905182
+Epoch 48 - Batch 18 - Loss 0.2124730497598648
+Epoch 48 - Batch 19 - Loss 0.21800890564918518
+
+EPOCH 48 ...
+Loss = 3.648
+
+Epoch 49 - Batch 1 - Loss 0.19793328642845154
+Epoch 49 - Batch 2 - Loss 0.20030760765075684
+Epoch 49 - Batch 3 - Loss 0.198342427611351
+Epoch 49 - Batch 4 - Loss 0.22408220171928406
+Epoch 49 - Batch 5 - Loss 0.1810498833656311
+Epoch 49 - Batch 6 - Loss 0.22309565544128418
+Epoch 49 - Batch 7 - Loss 0.181893453001976
+Epoch 49 - Batch 8 - Loss 0.19524554908275604
+Epoch 49 - Batch 9 - Loss 0.17868328094482422
+Epoch 49 - Batch 10 - Loss 0.19164371490478516
+Epoch 49 - Batch 11 - Loss 0.206023707985878
+Epoch 49 - Batch 12 - Loss 0.18169814348220825
+Epoch 49 - Batch 13 - Loss 0.19771996140480042
+Epoch 49 - Batch 14 - Loss 0.17531278729438782
+Epoch 49 - Batch 15 - Loss 0.18169252574443817
+Epoch 49 - Batch 16 - Loss 0.18038132786750793
+Epoch 49 - Batch 17 - Loss 0.20518358051776886
+Epoch 49 - Batch 18 - Loss 0.1785275936126709
+Epoch 49 - Batch 19 - Loss 0.15939171612262726
+
+EPOCH 49 ...
+Loss = 3.638
+
+Epoch 50 - Batch 1 - Loss 0.22197838127613068
+Epoch 50 - Batch 2 - Loss 0.22824828326702118
+Epoch 50 - Batch 3 - Loss 0.234829843044281
+Epoch 50 - Batch 4 - Loss 0.18220189213752747
+Epoch 50 - Batch 5 - Loss 0.2131367325782776
+Epoch 50 - Batch 6 - Loss 0.18539859354496002
+Epoch 50 - Batch 7 - Loss 0.23799307644367218
+Epoch 50 - Batch 8 - Loss 0.18568947911262512
+Epoch 50 - Batch 9 - Loss 0.15063290297985077
+Epoch 50 - Batch 10 - Loss 0.18376708030700684
+Epoch 50 - Batch 11 - Loss 0.1702948808670044
+Epoch 50 - Batch 12 - Loss 0.2213895618915558
+Epoch 50 - Batch 13 - Loss 0.194937065243721
+Epoch 50 - Batch 14 - Loss 0.18371567130088806
+Epoch 50 - Batch 15 - Loss 0.20614896714687347
+Epoch 50 - Batch 16 - Loss 0.17965300381183624
+Epoch 50 - Batch 17 - Loss 0.17662747204303741
+Epoch 50 - Batch 18 - Loss 0.16114336252212524
+Epoch 50 - Batch 19 - Loss 0.285825252532959
+
+EPOCH 50 ...
+Loss = 3.804
+
+Epoch 51 - Batch 1 - Loss 0.17269107699394226
+Epoch 51 - Batch 2 - Loss 0.18058666586875916
+Epoch 51 - Batch 3 - Loss 0.18495146930217743
+Epoch 51 - Batch 4 - Loss 0.1849554479122162
+Epoch 51 - Batch 5 - Loss 0.17731618881225586
+Epoch 51 - Batch 6 - Loss 0.19233080744743347
+Epoch 51 - Batch 7 - Loss 0.17836034297943115
+Epoch 51 - Batch 8 - Loss 0.18092256784439087
+Epoch 51 - Batch 9 - Loss 0.1721913069486618
+Epoch 51 - Batch 10 - Loss 0.20930857956409454
+Epoch 51 - Batch 11 - Loss 0.17449945211410522
+Epoch 51 - Batch 12 - Loss 0.16924026608467102
+Epoch 51 - Batch 13 - Loss 0.17235442996025085
+Epoch 51 - Batch 14 - Loss 0.14912231266498566
+Epoch 51 - Batch 15 - Loss 0.1805163323879242
+Epoch 51 - Batch 16 - Loss 0.1808500438928604
+Epoch 51 - Batch 17 - Loss 0.1703670769929886
+Epoch 51 - Batch 18 - Loss 0.16164492070674896
+Epoch 51 - Batch 19 - Loss 0.17900699377059937
+
+EPOCH 51 ...
+Loss = 3.371
+
+Epoch 52 - Batch 1 - Loss 0.1737957000732422
+Epoch 52 - Batch 2 - Loss 0.15848129987716675
+Epoch 52 - Batch 3 - Loss 0.17806175351142883
+Epoch 52 - Batch 4 - Loss 0.19377626478672028
+Epoch 52 - Batch 5 - Loss 0.15614554286003113
+Epoch 52 - Batch 6 - Loss 0.1594831645488739
+Epoch 52 - Batch 7 - Loss 0.16440950334072113
+Epoch 52 - Batch 8 - Loss 0.17924454808235168
+Epoch 52 - Batch 9 - Loss 0.16174525022506714
+Epoch 52 - Batch 10 - Loss 0.17079181969165802
+Epoch 52 - Batch 11 - Loss 0.16088968515396118
+Epoch 52 - Batch 12 - Loss 0.16671860218048096
+Epoch 52 - Batch 13 - Loss 0.16879431903362274
+Epoch 52 - Batch 14 - Loss 0.1928378790616989
+Epoch 52 - Batch 15 - Loss 0.15585176646709442
+Epoch 52 - Batch 16 - Loss 0.15687339007854462
+Epoch 52 - Batch 17 - Loss 0.1812322437763214
+Epoch 52 - Batch 18 - Loss 0.15524615347385406
+Epoch 52 - Batch 19 - Loss 0.20340225100517273
+
+EPOCH 52 ...
+Loss = 3.238
+
+Epoch 53 - Batch 1 - Loss 0.1682066023349762
+Epoch 53 - Batch 2 - Loss 0.1423691064119339
+Epoch 53 - Batch 3 - Loss 0.16433630883693695
+Epoch 53 - Batch 4 - Loss 0.17624977231025696
+Epoch 53 - Batch 5 - Loss 0.14747314155101776
+Epoch 53 - Batch 6 - Loss 0.16086004674434662
+Epoch 53 - Batch 7 - Loss 0.15573856234550476
+Epoch 53 - Batch 8 - Loss 0.18702317774295807
+Epoch 53 - Batch 9 - Loss 0.15940771996974945
+Epoch 53 - Batch 10 - Loss 0.1794794350862503
+Epoch 53 - Batch 11 - Loss 0.1486588418483734
+Epoch 53 - Batch 12 - Loss 0.16462835669517517
+Epoch 53 - Batch 13 - Loss 0.16001743078231812
+Epoch 53 - Batch 14 - Loss 0.1530679613351822
+Epoch 53 - Batch 15 - Loss 0.16081584990024567
+Epoch 53 - Batch 16 - Loss 0.16246919333934784
+Epoch 53 - Batch 17 - Loss 0.17765220999717712
+Epoch 53 - Batch 18 - Loss 0.14868535101413727
+Epoch 53 - Batch 19 - Loss 0.07497842609882355
+
+EPOCH 53 ...
+Loss = 2.992
+
+Epoch 54 - Batch 1 - Loss 0.18308553099632263
+Epoch 54 - Batch 2 - Loss 0.15933173894882202
+Epoch 54 - Batch 3 - Loss 0.14584723114967346
+Epoch 54 - Batch 4 - Loss 0.15436671674251556
+Epoch 54 - Batch 5 - Loss 0.15485812723636627
+Epoch 54 - Batch 6 - Loss 0.1726808100938797
+Epoch 54 - Batch 7 - Loss 0.15587961673736572
+Epoch 54 - Batch 8 - Loss 0.15051065385341644
+Epoch 54 - Batch 9 - Loss 0.14521342515945435
+Epoch 54 - Batch 10 - Loss 0.14616362750530243
+Epoch 54 - Batch 11 - Loss 0.14887025952339172
+Epoch 54 - Batch 12 - Loss 0.15545687079429626
+Epoch 54 - Batch 13 - Loss 0.1719057261943817
+Epoch 54 - Batch 14 - Loss 0.1601112186908722
+Epoch 54 - Batch 15 - Loss 0.13678859174251556
+Epoch 54 - Batch 16 - Loss 0.15327218174934387
+Epoch 54 - Batch 17 - Loss 0.15829743444919586
+Epoch 54 - Batch 18 - Loss 0.1583356410264969
+Epoch 54 - Batch 19 - Loss 0.18601422011852264
+
+EPOCH 54 ...
+Loss = 2.997
+
+Epoch 55 - Batch 1 - Loss 0.17284901440143585
+Epoch 55 - Batch 2 - Loss 0.16762271523475647
+Epoch 55 - Batch 3 - Loss 0.16609612107276917
+Epoch 55 - Batch 4 - Loss 0.1556440144777298
+Epoch 55 - Batch 5 - Loss 0.14985814690589905
+Epoch 55 - Batch 6 - Loss 0.13837584853172302
+Epoch 55 - Batch 7 - Loss 0.17239481210708618
+Epoch 55 - Batch 8 - Loss 0.15171048045158386
+Epoch 55 - Batch 9 - Loss 0.14882612228393555
+Epoch 55 - Batch 10 - Loss 0.16926424205303192
+Epoch 55 - Batch 11 - Loss 0.1592445969581604
+Epoch 55 - Batch 12 - Loss 0.14605411887168884
+Epoch 55 - Batch 13 - Loss 0.14354057610034943
+Epoch 55 - Batch 14 - Loss 0.18872101604938507
+Epoch 55 - Batch 15 - Loss 0.15983273088932037
+Epoch 55 - Batch 16 - Loss 0.14750054478645325
+Epoch 55 - Batch 17 - Loss 0.1633998453617096
+Epoch 55 - Batch 18 - Loss 0.13900168240070343
+Epoch 55 - Batch 19 - Loss 0.08452881872653961
+
+EPOCH 55 ...
+Loss = 2.924
+
+Epoch 56 - Batch 1 - Loss 0.16952933371067047
+Epoch 56 - Batch 2 - Loss 0.1687924861907959
+Epoch 56 - Batch 3 - Loss 0.15170937776565552
+Epoch 56 - Batch 4 - Loss 0.1401645392179489
+Epoch 56 - Batch 5 - Loss 0.1629079431295395
+Epoch 56 - Batch 6 - Loss 0.15640628337860107
+Epoch 56 - Batch 7 - Loss 0.15408997237682343
+Epoch 56 - Batch 8 - Loss 0.15119272470474243
+Epoch 56 - Batch 9 - Loss 0.16384342312812805
+Epoch 56 - Batch 10 - Loss 0.16416001319885254
+Epoch 56 - Batch 11 - Loss 0.14701160788536072
+Epoch 56 - Batch 12 - Loss 0.1619044840335846
+Epoch 56 - Batch 13 - Loss 0.14092636108398438
+Epoch 56 - Batch 14 - Loss 0.1373046636581421
+Epoch 56 - Batch 15 - Loss 0.13433685898780823
+Epoch 56 - Batch 16 - Loss 0.13852238655090332
+Epoch 56 - Batch 17 - Loss 0.14772172272205353
+Epoch 56 - Batch 18 - Loss 0.15056274831295013
+Epoch 56 - Batch 19 - Loss 0.09858682751655579
+
+EPOCH 56 ...
+Loss = 2.840
+
+Epoch 57 - Batch 1 - Loss 0.1571974903345108
+Epoch 57 - Batch 2 - Loss 0.12526562809944153
+Epoch 57 - Batch 3 - Loss 0.13941019773483276
+Epoch 57 - Batch 4 - Loss 0.14215493202209473
+Epoch 57 - Batch 5 - Loss 0.1506921350955963
+Epoch 57 - Batch 6 - Loss 0.17102065682411194
+Epoch 57 - Batch 7 - Loss 0.14880238473415375
+Epoch 57 - Batch 8 - Loss 0.13970938324928284
+Epoch 57 - Batch 9 - Loss 0.1302105188369751
+Epoch 57 - Batch 10 - Loss 0.15151144564151764
+Epoch 57 - Batch 11 - Loss 0.13129836320877075
+Epoch 57 - Batch 12 - Loss 0.12648756802082062
+Epoch 57 - Batch 13 - Loss 0.136981800198555
+Epoch 57 - Batch 14 - Loss 0.13959676027297974
+Epoch 57 - Batch 15 - Loss 0.13003681600093842
+Epoch 57 - Batch 16 - Loss 0.14525607228279114
+Epoch 57 - Batch 17 - Loss 0.13562552630901337
+Epoch 57 - Batch 18 - Loss 0.14269345998764038
+Epoch 57 - Batch 19 - Loss 0.09989864379167557
+
+EPOCH 57 ...
+Loss = 2.644
+
+Epoch 58 - Batch 1 - Loss 0.13163787126541138
+Epoch 58 - Batch 2 - Loss 0.12275663763284683
+Epoch 58 - Batch 3 - Loss 0.12148018926382065
+Epoch 58 - Batch 4 - Loss 0.14065490663051605
+Epoch 58 - Batch 5 - Loss 0.1369539201259613
+Epoch 58 - Batch 6 - Loss 0.1464110165834427
+Epoch 58 - Batch 7 - Loss 0.15235701203346252
+Epoch 58 - Batch 8 - Loss 0.13730619847774506
+Epoch 58 - Batch 9 - Loss 0.13996775448322296
+Epoch 58 - Batch 10 - Loss 0.12620662152767181
+Epoch 58 - Batch 11 - Loss 0.13919880986213684
+Epoch 58 - Batch 12 - Loss 0.15844029188156128
+Epoch 58 - Batch 13 - Loss 0.13549362123012543
+Epoch 58 - Batch 14 - Loss 0.13340893387794495
+Epoch 58 - Batch 15 - Loss 0.13855606317520142
+Epoch 58 - Batch 16 - Loss 0.12200513482093811
+Epoch 58 - Batch 17 - Loss 0.14050234854221344
+Epoch 58 - Batch 18 - Loss 0.11467022448778152
+Epoch 58 - Batch 19 - Loss 0.11151091009378433
+
+EPOCH 58 ...
+Loss = 2.550
+
+Epoch 59 - Batch 1 - Loss 0.12966987490653992
+Epoch 59 - Batch 2 - Loss 0.14645236730575562
+Epoch 59 - Batch 3 - Loss 0.15111181139945984
+Epoch 59 - Batch 4 - Loss 0.12439268082380295
+Epoch 59 - Batch 5 - Loss 0.12761886417865753
+Epoch 59 - Batch 6 - Loss 0.12739290297031403
+Epoch 59 - Batch 7 - Loss 0.12667377293109894
+Epoch 59 - Batch 8 - Loss 0.1271165907382965
+Epoch 59 - Batch 9 - Loss 0.13744167983531952
+Epoch 59 - Batch 10 - Loss 0.1566595882177353
+Epoch 59 - Batch 11 - Loss 0.13546966016292572
+Epoch 59 - Batch 12 - Loss 0.1266583353281021
+Epoch 59 - Batch 13 - Loss 0.12914839386940002
+Epoch 59 - Batch 14 - Loss 0.12890014052391052
+Epoch 59 - Batch 15 - Loss 0.13928848505020142
+Epoch 59 - Batch 16 - Loss 0.12986013293266296
+Epoch 59 - Batch 17 - Loss 0.12498542666435242
+Epoch 59 - Batch 18 - Loss 0.1198800802230835
+Epoch 59 - Batch 19 - Loss 0.19675803184509277
+
+EPOCH 59 ...
+Loss = 2.585
+
+Epoch 60 - Batch 1 - Loss 0.145907461643219
+Epoch 60 - Batch 2 - Loss 0.14819474518299103
+Epoch 60 - Batch 3 - Loss 0.14686809480190277
+Epoch 60 - Batch 4 - Loss 0.12588942050933838
+Epoch 60 - Batch 5 - Loss 0.12811435759067535
+Epoch 60 - Batch 6 - Loss 0.14352215826511383
+Epoch 60 - Batch 7 - Loss 0.1552877575159073
+Epoch 60 - Batch 8 - Loss 0.1353064328432083
+Epoch 60 - Batch 9 - Loss 0.13463687896728516
+Epoch 60 - Batch 10 - Loss 0.13874492049217224
+Epoch 60 - Batch 11 - Loss 0.12673906981945038
+Epoch 60 - Batch 12 - Loss 0.12890513241291046
+Epoch 60 - Batch 13 - Loss 0.12560804188251495
+Epoch 60 - Batch 14 - Loss 0.10811027884483337
+Epoch 60 - Batch 15 - Loss 0.13292823731899261
+Epoch 60 - Batch 16 - Loss 0.14723949134349823
+Epoch 60 - Batch 17 - Loss 0.12511436641216278
+Epoch 60 - Batch 18 - Loss 0.14206255972385406
+Epoch 60 - Batch 19 - Loss 0.15726029872894287
+
+EPOCH 60 ...
+Loss = 2.596
+
+Epoch 61 - Batch 1 - Loss 0.13799715042114258
+Epoch 61 - Batch 2 - Loss 0.13864807784557343
+Epoch 61 - Batch 3 - Loss 0.1348479688167572
+Epoch 61 - Batch 4 - Loss 0.14845837652683258
+Epoch 61 - Batch 5 - Loss 0.13986405730247498
+Epoch 61 - Batch 6 - Loss 0.15609335899353027
+Epoch 61 - Batch 7 - Loss 0.1141892522573471
+Epoch 61 - Batch 8 - Loss 0.13579565286636353
+Epoch 61 - Batch 9 - Loss 0.1307196319103241
+Epoch 61 - Batch 10 - Loss 0.12288965284824371
+Epoch 61 - Batch 11 - Loss 0.12290238589048386
+Epoch 61 - Batch 12 - Loss 0.1357758641242981
+Epoch 61 - Batch 13 - Loss 0.12763865292072296
+Epoch 61 - Batch 14 - Loss 0.12276147305965424
+Epoch 61 - Batch 15 - Loss 0.10335590690374374
+Epoch 61 - Batch 16 - Loss 0.11912352591753006
+Epoch 61 - Batch 17 - Loss 0.13944494724273682
+Epoch 61 - Batch 18 - Loss 0.12128026783466339
+Epoch 61 - Batch 19 - Loss 0.13530325889587402
+
+EPOCH 61 ...
+Loss = 2.487
+
+Epoch 62 - Batch 1 - Loss 0.11905241012573242
+Epoch 62 - Batch 2 - Loss 0.11781027168035507
+Epoch 62 - Batch 3 - Loss 0.13803443312644958
+Epoch 62 - Batch 4 - Loss 0.13064292073249817
+Epoch 62 - Batch 5 - Loss 0.11791335046291351
+Epoch 62 - Batch 6 - Loss 0.12285716831684113
+Epoch 62 - Batch 7 - Loss 0.12172485142946243
+Epoch 62 - Batch 8 - Loss 0.11532313376665115
+Epoch 62 - Batch 9 - Loss 0.11901591718196869
+Epoch 62 - Batch 10 - Loss 0.11872462928295135
+Epoch 62 - Batch 11 - Loss 0.12347791343927383
+Epoch 62 - Batch 12 - Loss 0.12216100841760635
+Epoch 62 - Batch 13 - Loss 0.12427513301372528
+Epoch 62 - Batch 14 - Loss 0.12135232239961624
+Epoch 62 - Batch 15 - Loss 0.10356581956148148
+Epoch 62 - Batch 16 - Loss 0.12284613400697708
+Epoch 62 - Batch 17 - Loss 0.10835666954517365
+Epoch 62 - Batch 18 - Loss 0.12221798300743103
+Epoch 62 - Batch 19 - Loss 0.07783325016498566
+
+EPOCH 62 ...
+Loss = 2.247
+
+Epoch 63 - Batch 1 - Loss 0.1207628920674324
+Epoch 63 - Batch 2 - Loss 0.10479418188333511
+Epoch 63 - Batch 3 - Loss 0.11809855699539185
+Epoch 63 - Batch 4 - Loss 0.13359372317790985
+Epoch 63 - Batch 5 - Loss 0.11989139020442963
+Epoch 63 - Batch 6 - Loss 0.11068904399871826
+Epoch 63 - Batch 7 - Loss 0.11495141685009003
+Epoch 63 - Batch 8 - Loss 0.1114705428481102
+Epoch 63 - Batch 9 - Loss 0.09846662729978561
+Epoch 63 - Batch 10 - Loss 0.10740727186203003
+Epoch 63 - Batch 11 - Loss 0.11044298857450485
+Epoch 63 - Batch 12 - Loss 0.10947651416063309
+Epoch 63 - Batch 13 - Loss 0.12123823910951614
+Epoch 63 - Batch 14 - Loss 0.13311299681663513
+Epoch 63 - Batch 15 - Loss 0.09573391079902649
+Epoch 63 - Batch 16 - Loss 0.10707736760377884
+Epoch 63 - Batch 17 - Loss 0.10456918925046921
+Epoch 63 - Batch 18 - Loss 0.12000222504138947
+Epoch 63 - Batch 19 - Loss 0.10045156627893448
+
+EPOCH 63 ...
+Loss = 2.142
+
+Epoch 64 - Batch 1 - Loss 0.1174120157957077
+Epoch 64 - Batch 2 - Loss 0.10676569491624832
+Epoch 64 - Batch 3 - Loss 0.09583820402622223
+Epoch 64 - Batch 4 - Loss 0.11275330930948257
+Epoch 64 - Batch 5 - Loss 0.10373184084892273
+Epoch 64 - Batch 6 - Loss 0.10145960003137589
+Epoch 64 - Batch 7 - Loss 0.10332339257001877
+Epoch 64 - Batch 8 - Loss 0.12264922261238098
+Epoch 64 - Batch 9 - Loss 0.10986749827861786
+Epoch 64 - Batch 10 - Loss 0.11310335993766785
+Epoch 64 - Batch 11 - Loss 0.10991280525922775
+Epoch 64 - Batch 12 - Loss 0.10381246358156204
+Epoch 64 - Batch 13 - Loss 0.1030341163277626
+Epoch 64 - Batch 14 - Loss 0.1070246770977974
+Epoch 64 - Batch 15 - Loss 0.11446157842874527
+Epoch 64 - Batch 16 - Loss 0.09177617728710175
+Epoch 64 - Batch 17 - Loss 0.10797493159770966
+Epoch 64 - Batch 18 - Loss 0.11554032564163208
+Epoch 64 - Batch 19 - Loss 0.09360004216432571
+
+EPOCH 64 ...
+Loss = 2.034
+
+Epoch 65 - Batch 1 - Loss 0.09947221726179123
+Epoch 65 - Batch 2 - Loss 0.10100379586219788
+Epoch 65 - Batch 3 - Loss 0.10637775808572769
+Epoch 65 - Batch 4 - Loss 0.11444959789514542
+Epoch 65 - Batch 5 - Loss 0.10950525104999542
+Epoch 65 - Batch 6 - Loss 0.08863575011491776
+Epoch 65 - Batch 7 - Loss 0.11166924238204956
+Epoch 65 - Batch 8 - Loss 0.11601269245147705
+Epoch 65 - Batch 9 - Loss 0.10360874235630035
+Epoch 65 - Batch 10 - Loss 0.0955335795879364
+Epoch 65 - Batch 11 - Loss 0.12036006897687912
+Epoch 65 - Batch 12 - Loss 0.10790692269802094
+Epoch 65 - Batch 13 - Loss 0.09079109877347946
+Epoch 65 - Batch 14 - Loss 0.09651906043291092
+Epoch 65 - Batch 15 - Loss 0.11026691645383835
+Epoch 65 - Batch 16 - Loss 0.09870406985282898
+Epoch 65 - Batch 17 - Loss 0.09809793531894684
+Epoch 65 - Batch 18 - Loss 0.10289054363965988
+Epoch 65 - Batch 19 - Loss 0.10154092311859131
+
+EPOCH 65 ...
+Loss = 1.973
+
+Epoch 66 - Batch 1 - Loss 0.09200956672430038
+Epoch 66 - Batch 2 - Loss 0.0928201749920845
+Epoch 66 - Batch 3 - Loss 0.10160624980926514
+Epoch 66 - Batch 4 - Loss 0.10201755911111832
+Epoch 66 - Batch 5 - Loss 0.10651299357414246
+Epoch 66 - Batch 6 - Loss 0.10364409536123276
+Epoch 66 - Batch 7 - Loss 0.09915612637996674
+Epoch 66 - Batch 8 - Loss 0.10456747561693192
+Epoch 66 - Batch 9 - Loss 0.10579361021518707
+Epoch 66 - Batch 10 - Loss 0.1130874752998352
+Epoch 66 - Batch 11 - Loss 0.0875985324382782
+Epoch 66 - Batch 12 - Loss 0.08558339625597
+Epoch 66 - Batch 13 - Loss 0.09497226774692535
+Epoch 66 - Batch 14 - Loss 0.1029883399605751
+Epoch 66 - Batch 15 - Loss 0.10289374738931656
+Epoch 66 - Batch 16 - Loss 0.09528303891420364
+Epoch 66 - Batch 17 - Loss 0.10259291529655457
+Epoch 66 - Batch 18 - Loss 0.10236074775457382
+Epoch 66 - Batch 19 - Loss 0.1211060956120491
+
+EPOCH 66 ...
+Loss = 1.917
+
+Epoch 67 - Batch 1 - Loss 0.10404442995786667
+Epoch 67 - Batch 2 - Loss 0.08408805727958679
+Epoch 67 - Batch 3 - Loss 0.08642066270112991
+Epoch 67 - Batch 4 - Loss 0.10110105574131012
+Epoch 67 - Batch 5 - Loss 0.10504323244094849
+Epoch 67 - Batch 6 - Loss 0.08401191234588623
+Epoch 67 - Batch 7 - Loss 0.08954640477895737
+Epoch 67 - Batch 8 - Loss 0.0947461947798729
+Epoch 67 - Batch 9 - Loss 0.09827016294002533
+Epoch 67 - Batch 10 - Loss 0.10341187566518784
+Epoch 67 - Batch 11 - Loss 0.09206093847751617
+Epoch 67 - Batch 12 - Loss 0.08905558288097382
+Epoch 67 - Batch 13 - Loss 0.09701885282993317
+Epoch 67 - Batch 14 - Loss 0.10310995578765869
+Epoch 67 - Batch 15 - Loss 0.09691090136766434
+Epoch 67 - Batch 16 - Loss 0.09350316971540451
+Epoch 67 - Batch 17 - Loss 0.11330496519804001
+Epoch 67 - Batch 18 - Loss 0.0862337127327919
+Epoch 67 - Batch 19 - Loss 0.07920937985181808
+
+EPOCH 67 ...
+Loss = 1.801
+
+Epoch 68 - Batch 1 - Loss 0.09078620374202728
+Epoch 68 - Batch 2 - Loss 0.09600679576396942
+Epoch 68 - Batch 3 - Loss 0.09704279154539108
+Epoch 68 - Batch 4 - Loss 0.1003955826163292
+Epoch 68 - Batch 5 - Loss 0.08849528431892395
+Epoch 68 - Batch 6 - Loss 0.09122886508703232
+Epoch 68 - Batch 7 - Loss 0.10676431655883789
+Epoch 68 - Batch 8 - Loss 0.10520429909229279
+Epoch 68 - Batch 9 - Loss 0.09175817668437958
+Epoch 68 - Batch 10 - Loss 0.08496857434511185
+Epoch 68 - Batch 11 - Loss 0.09405464679002762
+Epoch 68 - Batch 12 - Loss 0.09750901162624359
+Epoch 68 - Batch 13 - Loss 0.09095731377601624
+Epoch 68 - Batch 14 - Loss 0.09892154484987259
+Epoch 68 - Batch 15 - Loss 0.08451864123344421
+Epoch 68 - Batch 16 - Loss 0.09685804694890976
+Epoch 68 - Batch 17 - Loss 0.08759871125221252
+Epoch 68 - Batch 18 - Loss 0.08435060828924179
+Epoch 68 - Batch 19 - Loss 0.11967962980270386
+
+EPOCH 68 ...
+Loss = 1.807
+
+Epoch 69 - Batch 1 - Loss 0.08874811977148056
+Epoch 69 - Batch 2 - Loss 0.1126408651471138
+Epoch 69 - Batch 3 - Loss 0.09022095054388046
+Epoch 69 - Batch 4 - Loss 0.10010039806365967
+Epoch 69 - Batch 5 - Loss 0.08248183876276016
+Epoch 69 - Batch 6 - Loss 0.09863108396530151
+Epoch 69 - Batch 7 - Loss 0.10415852814912796
+Epoch 69 - Batch 8 - Loss 0.09152635186910629
+Epoch 69 - Batch 9 - Loss 0.09474073350429535
+Epoch 69 - Batch 10 - Loss 0.10131434351205826
+Epoch 69 - Batch 11 - Loss 0.09635161608457565
+Epoch 69 - Batch 12 - Loss 0.10012268275022507
+Epoch 69 - Batch 13 - Loss 0.08463005721569061
+Epoch 69 - Batch 14 - Loss 0.0890718474984169
+Epoch 69 - Batch 15 - Loss 0.09335964173078537
+Epoch 69 - Batch 16 - Loss 0.08957406878471375
+Epoch 69 - Batch 17 - Loss 0.09467644989490509
+Epoch 69 - Batch 18 - Loss 0.09373416751623154
+Epoch 69 - Batch 19 - Loss 0.09711965173482895
+
+EPOCH 69 ...
+Loss = 1.803
+
+Epoch 70 - Batch 1 - Loss 0.08892856538295746
+Epoch 70 - Batch 2 - Loss 0.0845714807510376
+Epoch 70 - Batch 3 - Loss 0.10474343597888947
+Epoch 70 - Batch 4 - Loss 0.09759137034416199
+Epoch 70 - Batch 5 - Loss 0.10941962152719498
+Epoch 70 - Batch 6 - Loss 0.10625526309013367
+Epoch 70 - Batch 7 - Loss 0.09227466583251953
+Epoch 70 - Batch 8 - Loss 0.09501012414693832
+Epoch 70 - Batch 9 - Loss 0.08185243606567383
+Epoch 70 - Batch 10 - Loss 0.09911686927080154
+Epoch 70 - Batch 11 - Loss 0.1008547991514206
+Epoch 70 - Batch 12 - Loss 0.09436289221048355
+Epoch 70 - Batch 13 - Loss 0.08727522939443588
+Epoch 70 - Batch 14 - Loss 0.0831620842218399
+Epoch 70 - Batch 15 - Loss 0.09057647734880447
+Epoch 70 - Batch 16 - Loss 0.08779747784137726
+Epoch 70 - Batch 17 - Loss 0.0826525017619133
+Epoch 70 - Batch 18 - Loss 0.08680761605501175
+Epoch 70 - Batch 19 - Loss 0.061338890343904495
+
+EPOCH 70 ...
+Loss = 1.735
+
+Epoch 71 - Batch 1 - Loss 0.08038466423749924
+Epoch 71 - Batch 2 - Loss 0.0783783346414566
+Epoch 71 - Batch 3 - Loss 0.08883652836084366
+Epoch 71 - Batch 4 - Loss 0.09745986759662628
+Epoch 71 - Batch 5 - Loss 0.08085805922746658
+Epoch 71 - Batch 6 - Loss 0.09130781143903732
+Epoch 71 - Batch 7 - Loss 0.08465716987848282
+Epoch 71 - Batch 8 - Loss 0.07844948768615723
+Epoch 71 - Batch 9 - Loss 0.08523538708686829
+Epoch 71 - Batch 10 - Loss 0.08530978858470917
+Epoch 71 - Batch 11 - Loss 0.08911140263080597
+Epoch 71 - Batch 12 - Loss 0.08877991884946823
+Epoch 71 - Batch 13 - Loss 0.08698728680610657
+Epoch 71 - Batch 14 - Loss 0.09177792072296143
+Epoch 71 - Batch 15 - Loss 0.09304405003786087
+Epoch 71 - Batch 16 - Loss 0.08013927191495895
+Epoch 71 - Batch 17 - Loss 0.08951792120933533
+Epoch 71 - Batch 18 - Loss 0.08342322707176208
+Epoch 71 - Batch 19 - Loss 0.13734929263591766
+
+EPOCH 71 ...
+Loss = 1.691
+
+Epoch 72 - Batch 1 - Loss 0.090373694896698
+Epoch 72 - Batch 2 - Loss 0.08941999077796936
+Epoch 72 - Batch 3 - Loss 0.08381368964910507
+Epoch 72 - Batch 4 - Loss 0.07604357600212097
+Epoch 72 - Batch 5 - Loss 0.08869990706443787
+Epoch 72 - Batch 6 - Loss 0.08288794010877609
+Epoch 72 - Batch 7 - Loss 0.08120083063840866
+Epoch 72 - Batch 8 - Loss 0.07519976794719696
+Epoch 72 - Batch 9 - Loss 0.0781492218375206
+Epoch 72 - Batch 10 - Loss 0.07407063245773315
+Epoch 72 - Batch 11 - Loss 0.07911033183336258
+Epoch 72 - Batch 12 - Loss 0.10435009002685547
+Epoch 72 - Batch 13 - Loss 0.07520914077758789
+Epoch 72 - Batch 14 - Loss 0.08787611871957779
+Epoch 72 - Batch 15 - Loss 0.07078340649604797
+Epoch 72 - Batch 16 - Loss 0.07887447625398636
+Epoch 72 - Batch 17 - Loss 0.08848324418067932
+Epoch 72 - Batch 18 - Loss 0.10076748579740524
+Epoch 72 - Batch 19 - Loss 0.0559689961373806
+
+EPOCH 72 ...
+Loss = 1.561
+
+Epoch 73 - Batch 1 - Loss 0.07343269139528275
+Epoch 73 - Batch 2 - Loss 0.09246964007616043
+Epoch 73 - Batch 3 - Loss 0.07745534926652908
+Epoch 73 - Batch 4 - Loss 0.07263510674238205
+Epoch 73 - Batch 5 - Loss 0.0918596163392067
+Epoch 73 - Batch 6 - Loss 0.07209484279155731
+Epoch 73 - Batch 7 - Loss 0.078521728515625
+Epoch 73 - Batch 8 - Loss 0.08968127518892288
+Epoch 73 - Batch 9 - Loss 0.08400361984968185
+Epoch 73 - Batch 10 - Loss 0.08674688637256622
+Epoch 73 - Batch 11 - Loss 0.07849462330341339
+Epoch 73 - Batch 12 - Loss 0.0931871235370636
+Epoch 73 - Batch 13 - Loss 0.08111866563558578
+Epoch 73 - Batch 14 - Loss 0.07723931223154068
+Epoch 73 - Batch 15 - Loss 0.07554616034030914
+Epoch 73 - Batch 16 - Loss 0.07072652131319046
+Epoch 73 - Batch 17 - Loss 0.08019840717315674
+Epoch 73 - Batch 18 - Loss 0.07975985109806061
+Epoch 73 - Batch 19 - Loss 0.05852693319320679
+
+EPOCH 73 ...
+Loss = 1.514
+
+Epoch 74 - Batch 1 - Loss 0.09091223776340485
+Epoch 74 - Batch 2 - Loss 0.06743969023227692
+Epoch 74 - Batch 3 - Loss 0.081639863550663
+Epoch 74 - Batch 4 - Loss 0.0698595866560936
+Epoch 74 - Batch 5 - Loss 0.0919145718216896
+Epoch 74 - Batch 6 - Loss 0.07396586984395981
+Epoch 74 - Batch 7 - Loss 0.08550738543272018
+Epoch 74 - Batch 8 - Loss 0.09180717170238495
+Epoch 74 - Batch 9 - Loss 0.07912563532590866
+Epoch 74 - Batch 10 - Loss 0.0743749812245369
+Epoch 74 - Batch 11 - Loss 0.06110934540629387
+Epoch 74 - Batch 12 - Loss 0.08018844574689865
+Epoch 74 - Batch 13 - Loss 0.0774969831109047
+Epoch 74 - Batch 14 - Loss 0.07346349209547043
+Epoch 74 - Batch 15 - Loss 0.08550071716308594
+Epoch 74 - Batch 16 - Loss 0.07173380255699158
+Epoch 74 - Batch 17 - Loss 0.07391572743654251
+Epoch 74 - Batch 18 - Loss 0.08188130706548691
+Epoch 74 - Batch 19 - Loss 0.10905015468597412
+
+EPOCH 74 ...
+Loss = 1.521
+
+Epoch 75 - Batch 1 - Loss 0.07376749068498611
+Epoch 75 - Batch 2 - Loss 0.0884862020611763
+Epoch 75 - Batch 3 - Loss 0.07972860336303711
+Epoch 75 - Batch 4 - Loss 0.09161447733640671
+Epoch 75 - Batch 5 - Loss 0.08053091168403625
+Epoch 75 - Batch 6 - Loss 0.0807507261633873
+Epoch 75 - Batch 7 - Loss 0.07807700335979462
+Epoch 75 - Batch 8 - Loss 0.075342558324337
+Epoch 75 - Batch 9 - Loss 0.0772697925567627
+Epoch 75 - Batch 10 - Loss 0.08300364017486572
+Epoch 75 - Batch 11 - Loss 0.07661192119121552
+Epoch 75 - Batch 12 - Loss 0.0689665824174881
+Epoch 75 - Batch 13 - Loss 0.08304402232170105
+Epoch 75 - Batch 14 - Loss 0.0692092776298523
+Epoch 75 - Batch 15 - Loss 0.07852085679769516
+Epoch 75 - Batch 16 - Loss 0.07567968219518661
+Epoch 75 - Batch 17 - Loss 0.06565961241722107
+Epoch 75 - Batch 18 - Loss 0.07742901891469955
+Epoch 75 - Batch 19 - Loss 0.14354084432125092
+
+EPOCH 75 ...
+Loss = 1.547
+
+Epoch 76 - Batch 1 - Loss 0.07579299807548523
+Epoch 76 - Batch 2 - Loss 0.0708002969622612
+Epoch 76 - Batch 3 - Loss 0.08287239819765091
+Epoch 76 - Batch 4 - Loss 0.07713251560926437
+Epoch 76 - Batch 5 - Loss 0.08083531260490417
+Epoch 76 - Batch 6 - Loss 0.08084063231945038
+Epoch 76 - Batch 7 - Loss 0.08696161210536957
+Epoch 76 - Batch 8 - Loss 0.07448562979698181
+Epoch 76 - Batch 9 - Loss 0.07707900553941727
+Epoch 76 - Batch 10 - Loss 0.07373432070016861
+Epoch 76 - Batch 11 - Loss 0.08137039840221405
+Epoch 76 - Batch 12 - Loss 0.07014990597963333
+Epoch 76 - Batch 13 - Loss 0.07726215571165085
+Epoch 76 - Batch 14 - Loss 0.07231907546520233
+Epoch 76 - Batch 15 - Loss 0.07250306010246277
+Epoch 76 - Batch 16 - Loss 0.06545013934373856
+Epoch 76 - Batch 17 - Loss 0.07059706747531891
+Epoch 76 - Batch 18 - Loss 0.07632947713136673
+Epoch 76 - Batch 19 - Loss 0.10488083958625793
+
+EPOCH 76 ...
+Loss = 1.471
+
+Epoch 77 - Batch 1 - Loss 0.07022181898355484
+Epoch 77 - Batch 2 - Loss 0.07488344609737396
+Epoch 77 - Batch 3 - Loss 0.08277352899312973
+Epoch 77 - Batch 4 - Loss 0.07409663498401642
+Epoch 77 - Batch 5 - Loss 0.0775166004896164
+Epoch 77 - Batch 6 - Loss 0.06833015382289886
+Epoch 77 - Batch 7 - Loss 0.07199148833751678
+Epoch 77 - Batch 8 - Loss 0.08209716528654099
+Epoch 77 - Batch 9 - Loss 0.06508934497833252
+Epoch 77 - Batch 10 - Loss 0.07690016180276871
+Epoch 77 - Batch 11 - Loss 0.0831586942076683
+Epoch 77 - Batch 12 - Loss 0.0731784850358963
+Epoch 77 - Batch 13 - Loss 0.06616776436567307
+Epoch 77 - Batch 14 - Loss 0.07789906859397888
+Epoch 77 - Batch 15 - Loss 0.07668039202690125
+Epoch 77 - Batch 16 - Loss 0.08008108288049698
+Epoch 77 - Batch 17 - Loss 0.07120286673307419
+Epoch 77 - Batch 18 - Loss 0.08878244459629059
+Epoch 77 - Batch 19 - Loss 0.05670551583170891
+
+EPOCH 77 ...
+Loss = 1.418
+
+Epoch 78 - Batch 1 - Loss 0.08477841317653656
+Epoch 78 - Batch 2 - Loss 0.07288113981485367
+Epoch 78 - Batch 3 - Loss 0.07372353971004486
+Epoch 78 - Batch 4 - Loss 0.06645294278860092
+Epoch 78 - Batch 5 - Loss 0.07558895647525787
+Epoch 78 - Batch 6 - Loss 0.0710659772157669
+Epoch 78 - Batch 7 - Loss 0.06936842948198318
+Epoch 78 - Batch 8 - Loss 0.07513749599456787
+Epoch 78 - Batch 9 - Loss 0.07360097765922546
+Epoch 78 - Batch 10 - Loss 0.07600665837526321
+Epoch 78 - Batch 11 - Loss 0.06618444621562958
+Epoch 78 - Batch 12 - Loss 0.06993973255157471
+Epoch 78 - Batch 13 - Loss 0.07481507956981659
+Epoch 78 - Batch 14 - Loss 0.0732160210609436
+Epoch 78 - Batch 15 - Loss 0.06740971654653549
+Epoch 78 - Batch 16 - Loss 0.08077337592840195
+Epoch 78 - Batch 17 - Loss 0.07756850868463516
+Epoch 78 - Batch 18 - Loss 0.07181007415056229
+Epoch 78 - Batch 19 - Loss 0.05258537456393242
+
+EPOCH 78 ...
+Loss = 1.373
+
+Epoch 79 - Batch 1 - Loss 0.07068592309951782
+Epoch 79 - Batch 2 - Loss 0.08400475233793259
+Epoch 79 - Batch 3 - Loss 0.0667160227894783
+Epoch 79 - Batch 4 - Loss 0.06927589327096939
+Epoch 79 - Batch 5 - Loss 0.07017739862203598
+Epoch 79 - Batch 6 - Loss 0.0692364051938057
+Epoch 79 - Batch 7 - Loss 0.07558261603116989
+Epoch 79 - Batch 8 - Loss 0.07612449675798416
+Epoch 79 - Batch 9 - Loss 0.07359901815652847
+Epoch 79 - Batch 10 - Loss 0.06474468111991882
+Epoch 79 - Batch 11 - Loss 0.06964467465877533
+Epoch 79 - Batch 12 - Loss 0.07591943442821503
+Epoch 79 - Batch 13 - Loss 0.07446762919425964
+Epoch 79 - Batch 14 - Loss 0.06353116035461426
+Epoch 79 - Batch 15 - Loss 0.06654580682516098
+Epoch 79 - Batch 16 - Loss 0.07583802193403244
+Epoch 79 - Batch 17 - Loss 0.08812897652387619
+Epoch 79 - Batch 18 - Loss 0.07754702121019363
+Epoch 79 - Batch 19 - Loss 0.06527375429868698
+
+EPOCH 79 ...
+Loss = 1.377
+
+Epoch 80 - Batch 1 - Loss 0.05912218242883682
+Epoch 80 - Batch 2 - Loss 0.06870600581169128
+Epoch 80 - Batch 3 - Loss 0.08366357535123825
+Epoch 80 - Batch 4 - Loss 0.06674469262361526
+Epoch 80 - Batch 5 - Loss 0.07085670530796051
+Epoch 80 - Batch 6 - Loss 0.0733589380979538
+Epoch 80 - Batch 7 - Loss 0.07839808613061905
+Epoch 80 - Batch 8 - Loss 0.0638771802186966
+Epoch 80 - Batch 9 - Loss 0.06836278736591339
+Epoch 80 - Batch 10 - Loss 0.07049766182899475
+Epoch 80 - Batch 11 - Loss 0.065513014793396
+Epoch 80 - Batch 12 - Loss 0.07174526154994965
+Epoch 80 - Batch 13 - Loss 0.07170756161212921
+Epoch 80 - Batch 14 - Loss 0.08748900890350342
+Epoch 80 - Batch 15 - Loss 0.06900494545698166
+Epoch 80 - Batch 16 - Loss 0.08270222693681717
+Epoch 80 - Batch 17 - Loss 0.06878848373889923
+Epoch 80 - Batch 18 - Loss 0.07239806652069092
+Epoch 80 - Batch 19 - Loss 0.07526089996099472
+
+EPOCH 80 ...
+Loss = 1.368
+
+Epoch 81 - Batch 1 - Loss 0.06225940212607384
+Epoch 81 - Batch 2 - Loss 0.077677421271801
+Epoch 81 - Batch 3 - Loss 0.0759589895606041
+Epoch 81 - Batch 4 - Loss 0.059935346245765686
+Epoch 81 - Batch 5 - Loss 0.07913772761821747
+Epoch 81 - Batch 6 - Loss 0.06551820039749146
+Epoch 81 - Batch 7 - Loss 0.06774348020553589
+Epoch 81 - Batch 8 - Loss 0.057398416101932526
+Epoch 81 - Batch 9 - Loss 0.06785190105438232
+Epoch 81 - Batch 10 - Loss 0.06499199569225311
+Epoch 81 - Batch 11 - Loss 0.06575624644756317
+Epoch 81 - Batch 12 - Loss 0.05181827023625374
+Epoch 81 - Batch 13 - Loss 0.08479377627372742
+Epoch 81 - Batch 14 - Loss 0.07135724276304245
+Epoch 81 - Batch 15 - Loss 0.07969637215137482
+Epoch 81 - Batch 16 - Loss 0.07479610294103622
+Epoch 81 - Batch 17 - Loss 0.07580839842557907
+Epoch 81 - Batch 18 - Loss 0.06833621114492416
+Epoch 81 - Batch 19 - Loss 0.08849526196718216
+
+EPOCH 81 ...
+Loss = 1.339
+
+Epoch 82 - Batch 1 - Loss 0.06778853386640549
+Epoch 82 - Batch 2 - Loss 0.0645272359251976
+Epoch 82 - Batch 3 - Loss 0.07320428639650345
+Epoch 82 - Batch 4 - Loss 0.061856530606746674
+Epoch 82 - Batch 5 - Loss 0.06126009672880173
+Epoch 82 - Batch 6 - Loss 0.06779264658689499
+Epoch 82 - Batch 7 - Loss 0.08087808638811111
+Epoch 82 - Batch 8 - Loss 0.06801323592662811
+Epoch 82 - Batch 9 - Loss 0.05624089762568474
+Epoch 82 - Batch 10 - Loss 0.06603977084159851
+Epoch 82 - Batch 11 - Loss 0.06865663826465607
+Epoch 82 - Batch 12 - Loss 0.07236376404762268
+Epoch 82 - Batch 13 - Loss 0.07004163414239883
+Epoch 82 - Batch 14 - Loss 0.06304459273815155
+Epoch 82 - Batch 15 - Loss 0.07650291919708252
+Epoch 82 - Batch 16 - Loss 0.07796375453472137
+Epoch 82 - Batch 17 - Loss 0.059877172112464905
+Epoch 82 - Batch 18 - Loss 0.06390439718961716
+Epoch 82 - Batch 19 - Loss 0.08167818188667297
+
+EPOCH 82 ...
+Loss = 1.302
+
+Epoch 83 - Batch 1 - Loss 0.07471625506877899
+Epoch 83 - Batch 2 - Loss 0.0697658360004425
+Epoch 83 - Batch 3 - Loss 0.06265456229448318
+Epoch 83 - Batch 4 - Loss 0.06843285262584686
+Epoch 83 - Batch 5 - Loss 0.0649939626455307
+Epoch 83 - Batch 6 - Loss 0.05931711569428444
+Epoch 83 - Batch 7 - Loss 0.06561844050884247
+Epoch 83 - Batch 8 - Loss 0.06386063992977142
+Epoch 83 - Batch 9 - Loss 0.07223499566316605
+Epoch 83 - Batch 10 - Loss 0.0660555437207222
+Epoch 83 - Batch 11 - Loss 0.057548888027668
+Epoch 83 - Batch 12 - Loss 0.07190826535224915
+Epoch 83 - Batch 13 - Loss 0.06867877393960953
+Epoch 83 - Batch 14 - Loss 0.06300753355026245
+Epoch 83 - Batch 15 - Loss 0.06839967519044876
+Epoch 83 - Batch 16 - Loss 0.07165934145450592
+Epoch 83 - Batch 17 - Loss 0.06337303668260574
+Epoch 83 - Batch 18 - Loss 0.057572413235902786
+Epoch 83 - Batch 19 - Loss 0.08642281591892242
+
+EPOCH 83 ...
+Loss = 1.276
+
+Epoch 84 - Batch 1 - Loss 0.06557812541723251
+Epoch 84 - Batch 2 - Loss 0.07311974465847015
+Epoch 84 - Batch 3 - Loss 0.07309451699256897
+Epoch 84 - Batch 4 - Loss 0.06556324660778046
+Epoch 84 - Batch 5 - Loss 0.0690167248249054
+Epoch 84 - Batch 6 - Loss 0.07037361711263657
+Epoch 84 - Batch 7 - Loss 0.06984876841306686
+Epoch 84 - Batch 8 - Loss 0.0694032609462738
+Epoch 84 - Batch 9 - Loss 0.07526643574237823
+Epoch 84 - Batch 10 - Loss 0.05845854431390762
+Epoch 84 - Batch 11 - Loss 0.06985724717378616
+Epoch 84 - Batch 12 - Loss 0.06731560081243515
+Epoch 84 - Batch 13 - Loss 0.055903054773807526
+Epoch 84 - Batch 14 - Loss 0.06850063055753708
+Epoch 84 - Batch 15 - Loss 0.06551893800497055
+Epoch 84 - Batch 16 - Loss 0.05804292485117912
+Epoch 84 - Batch 17 - Loss 0.06123184785246849
+Epoch 84 - Batch 18 - Loss 0.06159546598792076
+Epoch 84 - Batch 19 - Loss 0.04228511452674866
+
+EPOCH 84 ...
+Loss = 1.240
+
+Epoch 85 - Batch 1 - Loss 0.07408608496189117
+Epoch 85 - Batch 2 - Loss 0.054669685661792755
+Epoch 85 - Batch 3 - Loss 0.06526274979114532
+Epoch 85 - Batch 4 - Loss 0.05555475503206253
+Epoch 85 - Batch 5 - Loss 0.06267932802438736
+Epoch 85 - Batch 6 - Loss 0.07121987640857697
+Epoch 85 - Batch 7 - Loss 0.06299197673797607
+Epoch 85 - Batch 8 - Loss 0.0650564581155777
+Epoch 85 - Batch 9 - Loss 0.06642722338438034
+Epoch 85 - Batch 10 - Loss 0.06907340884208679
+Epoch 85 - Batch 11 - Loss 0.07617679238319397
+Epoch 85 - Batch 12 - Loss 0.06407994031906128
+Epoch 85 - Batch 13 - Loss 0.06417704373598099
+Epoch 85 - Batch 14 - Loss 0.07093474268913269
+Epoch 85 - Batch 15 - Loss 0.0626080334186554
+Epoch 85 - Batch 16 - Loss 0.057254038751125336
+Epoch 85 - Batch 17 - Loss 0.058438729494810104
+Epoch 85 - Batch 18 - Loss 0.0723167136311531
+Epoch 85 - Batch 19 - Loss 0.07514683157205582
+
+EPOCH 85 ...
+Loss = 1.248
+
+Epoch 86 - Batch 1 - Loss 0.0571095310151577
+Epoch 86 - Batch 2 - Loss 0.06353922188282013
+Epoch 86 - Batch 3 - Loss 0.06899682432413101
+Epoch 86 - Batch 4 - Loss 0.06186845526099205
+Epoch 86 - Batch 5 - Loss 0.06559474766254425
+Epoch 86 - Batch 6 - Loss 0.07074762880802155
+Epoch 86 - Batch 7 - Loss 0.05801290273666382
+Epoch 86 - Batch 8 - Loss 0.06938882172107697
+Epoch 86 - Batch 9 - Loss 0.06389899551868439
+Epoch 86 - Batch 10 - Loss 0.06713677197694778
+Epoch 86 - Batch 11 - Loss 0.05684057995676994
+Epoch 86 - Batch 12 - Loss 0.06470461934804916
+Epoch 86 - Batch 13 - Loss 0.058464761823415756
+Epoch 86 - Batch 14 - Loss 0.06723760068416595
+Epoch 86 - Batch 15 - Loss 0.06861135363578796
+Epoch 86 - Batch 16 - Loss 0.05793846398591995
+Epoch 86 - Batch 17 - Loss 0.07636957615613937
+Epoch 86 - Batch 18 - Loss 0.07091755419969559
+Epoch 86 - Batch 19 - Loss 0.03731737285852432
+
+EPOCH 86 ...
+Loss = 1.205
+
+Epoch 87 - Batch 1 - Loss 0.06530392915010452
+Epoch 87 - Batch 2 - Loss 0.0743284747004509
+Epoch 87 - Batch 3 - Loss 0.06487537175416946
+Epoch 87 - Batch 4 - Loss 0.05543950945138931
+Epoch 87 - Batch 5 - Loss 0.07009495794773102
+Epoch 87 - Batch 6 - Loss 0.06092356517910957
+Epoch 87 - Batch 7 - Loss 0.06090472638607025
+Epoch 87 - Batch 8 - Loss 0.06991308182477951
+Epoch 87 - Batch 9 - Loss 0.0592762753367424
+Epoch 87 - Batch 10 - Loss 0.059564702212810516
+Epoch 87 - Batch 11 - Loss 0.06077092885971069
+Epoch 87 - Batch 12 - Loss 0.0641104057431221
+Epoch 87 - Batch 13 - Loss 0.06155738979578018
+Epoch 87 - Batch 14 - Loss 0.06324418634176254
+Epoch 87 - Batch 15 - Loss 0.06696529686450958
+Epoch 87 - Batch 16 - Loss 0.06303664296865463
+Epoch 87 - Batch 17 - Loss 0.06383442133665085
+Epoch 87 - Batch 18 - Loss 0.05989928916096687
+Epoch 87 - Batch 19 - Loss 0.0716540664434433
+
+EPOCH 87 ...
+Loss = 1.216
+
+Epoch 88 - Batch 1 - Loss 0.06418405473232269
+Epoch 88 - Batch 2 - Loss 0.06766347587108612
+Epoch 88 - Batch 3 - Loss 0.06795541197061539
+Epoch 88 - Batch 4 - Loss 0.06596187502145767
+Epoch 88 - Batch 5 - Loss 0.07065977901220322
+Epoch 88 - Batch 6 - Loss 0.06326016038656235
+Epoch 88 - Batch 7 - Loss 0.05815562605857849
+Epoch 88 - Batch 8 - Loss 0.053070783615112305
+Epoch 88 - Batch 9 - Loss 0.05319879949092865
+Epoch 88 - Batch 10 - Loss 0.05742114037275314
+Epoch 88 - Batch 11 - Loss 0.06474815309047699
+Epoch 88 - Batch 12 - Loss 0.06912248581647873
+Epoch 88 - Batch 13 - Loss 0.0630272775888443
+Epoch 88 - Batch 14 - Loss 0.05543293058872223
+Epoch 88 - Batch 15 - Loss 0.05266980081796646
+Epoch 88 - Batch 16 - Loss 0.08454472571611404
+Epoch 88 - Batch 17 - Loss 0.0669492781162262
+Epoch 88 - Batch 18 - Loss 0.05908581241965294
+Epoch 88 - Batch 19 - Loss 0.03888014331459999
+
+EPOCH 88 ...
+Loss = 1.176
+
+Epoch 89 - Batch 1 - Loss 0.06701179593801498
+Epoch 89 - Batch 2 - Loss 0.06355759501457214
+Epoch 89 - Batch 3 - Loss 0.05346423387527466
+Epoch 89 - Batch 4 - Loss 0.06467445939779282
+Epoch 89 - Batch 5 - Loss 0.06944979727268219
+Epoch 89 - Batch 6 - Loss 0.05766570195555687
+Epoch 89 - Batch 7 - Loss 0.05301839858293533
+Epoch 89 - Batch 8 - Loss 0.06368306279182434
+Epoch 89 - Batch 9 - Loss 0.06747516244649887
+Epoch 89 - Batch 10 - Loss 0.059629086405038834
+Epoch 89 - Batch 11 - Loss 0.059243977069854736
+Epoch 89 - Batch 12 - Loss 0.07574574649333954
+Epoch 89 - Batch 13 - Loss 0.05234358087182045
+Epoch 89 - Batch 14 - Loss 0.06346698850393295
+Epoch 89 - Batch 15 - Loss 0.06322968751192093
+Epoch 89 - Batch 16 - Loss 0.055685386061668396
+Epoch 89 - Batch 17 - Loss 0.06984763592481613
+Epoch 89 - Batch 18 - Loss 0.055349987000226974
+Epoch 89 - Batch 19 - Loss 0.040654174983501434
+
+EPOCH 89 ...
+Loss = 1.155
+
+Epoch 90 - Batch 1 - Loss 0.06496274471282959
+Epoch 90 - Batch 2 - Loss 0.05567852780222893
+Epoch 90 - Batch 3 - Loss 0.061716195195913315
+Epoch 90 - Batch 4 - Loss 0.0627189353108406
+Epoch 90 - Batch 5 - Loss 0.05445115268230438
+Epoch 90 - Batch 6 - Loss 0.06132141873240471
+Epoch 90 - Batch 7 - Loss 0.058353375643491745
+Epoch 90 - Batch 8 - Loss 0.060347285121679306
+Epoch 90 - Batch 9 - Loss 0.062083616852760315
+Epoch 90 - Batch 10 - Loss 0.05620267614722252
+Epoch 90 - Batch 11 - Loss 0.05685101076960564
+Epoch 90 - Batch 12 - Loss 0.055068593472242355
+Epoch 90 - Batch 13 - Loss 0.06204092875123024
+Epoch 90 - Batch 14 - Loss 0.06410056352615356
+Epoch 90 - Batch 15 - Loss 0.04849860444664955
+Epoch 90 - Batch 16 - Loss 0.06482335180044174
+Epoch 90 - Batch 17 - Loss 0.06142094358801842
+Epoch 90 - Batch 18 - Loss 0.06798208504915237
+Epoch 90 - Batch 19 - Loss 0.12390577793121338
+
+EPOCH 90 ...
+Loss = 1.203
+
+Epoch 91 - Batch 1 - Loss 0.06805089116096497
+Epoch 91 - Batch 2 - Loss 0.07451315224170685
+Epoch 91 - Batch 3 - Loss 0.06280281394720078
+Epoch 91 - Batch 4 - Loss 0.07177624106407166
+Epoch 91 - Batch 5 - Loss 0.05737537890672684
+Epoch 91 - Batch 6 - Loss 0.07613270729780197
+Epoch 91 - Batch 7 - Loss 0.06680475175380707
+Epoch 91 - Batch 8 - Loss 0.05667443200945854
+Epoch 91 - Batch 9 - Loss 0.05344494804739952
+Epoch 91 - Batch 10 - Loss 0.06978622823953629
+Epoch 91 - Batch 11 - Loss 0.05581768974661827
+Epoch 91 - Batch 12 - Loss 0.06865543872117996
+Epoch 91 - Batch 13 - Loss 0.05579890310764313
+Epoch 91 - Batch 14 - Loss 0.05993983522057533
+Epoch 91 - Batch 15 - Loss 0.05662195011973381
+Epoch 91 - Batch 16 - Loss 0.05027908831834793
+Epoch 91 - Batch 17 - Loss 0.06178051605820656
+Epoch 91 - Batch 18 - Loss 0.06246249005198479
+Epoch 91 - Batch 19 - Loss 0.0362604558467865
+
+EPOCH 91 ...
+Loss = 1.165
+
+Epoch 92 - Batch 1 - Loss 0.06106408312916756
+Epoch 92 - Batch 2 - Loss 0.052822865545749664
+Epoch 92 - Batch 3 - Loss 0.06773380935192108
+Epoch 92 - Batch 4 - Loss 0.062940314412117
+Epoch 92 - Batch 5 - Loss 0.05848471447825432
+Epoch 92 - Batch 6 - Loss 0.05626183748245239
+Epoch 92 - Batch 7 - Loss 0.06348792463541031
+Epoch 92 - Batch 8 - Loss 0.06071462109684944
+Epoch 92 - Batch 9 - Loss 0.05523320287466049
+Epoch 92 - Batch 10 - Loss 0.05608347803354263
+Epoch 92 - Batch 11 - Loss 0.05471501871943474
+Epoch 92 - Batch 12 - Loss 0.05238973721861839
+Epoch 92 - Batch 13 - Loss 0.06344936043024063
+Epoch 92 - Batch 14 - Loss 0.05793951824307442
+Epoch 92 - Batch 15 - Loss 0.06330393999814987
+Epoch 92 - Batch 16 - Loss 0.056892912834882736
+Epoch 92 - Batch 17 - Loss 0.06875639408826828
+Epoch 92 - Batch 18 - Loss 0.07735557854175568
+Epoch 92 - Batch 19 - Loss 0.06469133496284485
+
+EPOCH 92 ...
+Loss = 1.154
+
+Epoch 93 - Batch 1 - Loss 0.06756679713726044
+Epoch 93 - Batch 2 - Loss 0.05135676637291908
+Epoch 93 - Batch 3 - Loss 0.06208924576640129
+Epoch 93 - Batch 4 - Loss 0.061144035309553146
+Epoch 93 - Batch 5 - Loss 0.054807648062705994
+Epoch 93 - Batch 6 - Loss 0.060762882232666016
+Epoch 93 - Batch 7 - Loss 0.05196404084563255
+Epoch 93 - Batch 8 - Loss 0.05645020306110382
+Epoch 93 - Batch 9 - Loss 0.059203967452049255
+Epoch 93 - Batch 10 - Loss 0.05643519386649132
+Epoch 93 - Batch 11 - Loss 0.061539728194475174
+Epoch 93 - Batch 12 - Loss 0.06772948056459427
+Epoch 93 - Batch 13 - Loss 0.05686308443546295
+Epoch 93 - Batch 14 - Loss 0.05145823583006859
+Epoch 93 - Batch 15 - Loss 0.05734603852033615
+Epoch 93 - Batch 16 - Loss 0.06390424072742462
+Epoch 93 - Batch 17 - Loss 0.06223731115460396
+Epoch 93 - Batch 18 - Loss 0.05269995331764221
+Epoch 93 - Batch 19 - Loss 0.07151549309492111
+
+EPOCH 93 ...
+Loss = 1.127
+
+Epoch 94 - Batch 1 - Loss 0.05901000276207924
+Epoch 94 - Batch 2 - Loss 0.06359818577766418
+Epoch 94 - Batch 3 - Loss 0.06131891533732414
+Epoch 94 - Batch 4 - Loss 0.05318598821759224
+Epoch 94 - Batch 5 - Loss 0.05741676688194275
+Epoch 94 - Batch 6 - Loss 0.04942462593317032
+Epoch 94 - Batch 7 - Loss 0.05968320742249489
+Epoch 94 - Batch 8 - Loss 0.05347529426217079
+Epoch 94 - Batch 9 - Loss 0.06091597303748131
+Epoch 94 - Batch 10 - Loss 0.0593491829931736
+Epoch 94 - Batch 11 - Loss 0.05725381523370743
+Epoch 94 - Batch 12 - Loss 0.0626867488026619
+Epoch 94 - Batch 13 - Loss 0.054961107671260834
+Epoch 94 - Batch 14 - Loss 0.0631038025021553
+Epoch 94 - Batch 15 - Loss 0.05425310134887695
+Epoch 94 - Batch 16 - Loss 0.05484132841229439
+Epoch 94 - Batch 17 - Loss 0.06986523419618607
+Epoch 94 - Batch 18 - Loss 0.050769589841365814
+Epoch 94 - Batch 19 - Loss 0.037500735372304916
+
+EPOCH 94 ...
+Loss = 1.083
+
+Epoch 95 - Batch 1 - Loss 0.06718670576810837
+Epoch 95 - Batch 2 - Loss 0.0671309232711792
+Epoch 95 - Batch 3 - Loss 0.056176409125328064
+Epoch 95 - Batch 4 - Loss 0.04910772666335106
+Epoch 95 - Batch 5 - Loss 0.05795862525701523
+Epoch 95 - Batch 6 - Loss 0.05838559940457344
+Epoch 95 - Batch 7 - Loss 0.04874429851770401
+Epoch 95 - Batch 8 - Loss 0.053132347762584686
+Epoch 95 - Batch 9 - Loss 0.05512084811925888
+Epoch 95 - Batch 10 - Loss 0.05141491815447807
+Epoch 95 - Batch 11 - Loss 0.05053533613681793
+Epoch 95 - Batch 12 - Loss 0.047982946038246155
+Epoch 95 - Batch 13 - Loss 0.05960672348737717
+Epoch 95 - Batch 14 - Loss 0.05283653363585472
+Epoch 95 - Batch 15 - Loss 0.06191529333591461
+Epoch 95 - Batch 16 - Loss 0.05941079556941986
+Epoch 95 - Batch 17 - Loss 0.07158522307872772
+Epoch 95 - Batch 18 - Loss 0.060324057936668396
+Epoch 95 - Batch 19 - Loss 0.048270586878061295
+
+EPOCH 95 ...
+Loss = 1.077
+
+Epoch 96 - Batch 1 - Loss 0.0591236911714077
+Epoch 96 - Batch 2 - Loss 0.057065073400735855
+Epoch 96 - Batch 3 - Loss 0.04784715920686722
+Epoch 96 - Batch 4 - Loss 0.06379177421331406
+Epoch 96 - Batch 5 - Loss 0.0508255809545517
+Epoch 96 - Batch 6 - Loss 0.05717780441045761
+Epoch 96 - Batch 7 - Loss 0.056915283203125
+Epoch 96 - Batch 8 - Loss 0.05906544253230095
+Epoch 96 - Batch 9 - Loss 0.05229932814836502
+Epoch 96 - Batch 10 - Loss 0.06644833087921143
+Epoch 96 - Batch 11 - Loss 0.05316236987709999
+Epoch 96 - Batch 12 - Loss 0.06671517342329025
+Epoch 96 - Batch 13 - Loss 0.05781809613108635
+Epoch 96 - Batch 14 - Loss 0.053739070892333984
+Epoch 96 - Batch 15 - Loss 0.05564552918076515
+Epoch 96 - Batch 16 - Loss 0.05915779992938042
+Epoch 96 - Batch 17 - Loss 0.055266089737415314
+Epoch 96 - Batch 18 - Loss 0.05806155130267143
+Epoch 96 - Batch 19 - Loss 0.06323159486055374
+
+EPOCH 96 ...
+Loss = 1.093
+
+Epoch 97 - Batch 1 - Loss 0.051961082965135574
+Epoch 97 - Batch 2 - Loss 0.05424507334828377
+Epoch 97 - Batch 3 - Loss 0.059897877275943756
+Epoch 97 - Batch 4 - Loss 0.05378643795847893
+Epoch 97 - Batch 5 - Loss 0.059521786868572235
+Epoch 97 - Batch 6 - Loss 0.05808931961655617
+Epoch 97 - Batch 7 - Loss 0.05341995134949684
+Epoch 97 - Batch 8 - Loss 0.05841217190027237
+Epoch 97 - Batch 9 - Loss 0.05818314105272293
+Epoch 97 - Batch 10 - Loss 0.058822911232709885
+Epoch 97 - Batch 11 - Loss 0.05625420808792114
+Epoch 97 - Batch 12 - Loss 0.05838736891746521
+Epoch 97 - Batch 13 - Loss 0.05803379416465759
+Epoch 97 - Batch 14 - Loss 0.06322254240512848
+Epoch 97 - Batch 15 - Loss 0.04927471652626991
+Epoch 97 - Batch 16 - Loss 0.06182340532541275
+Epoch 97 - Batch 17 - Loss 0.05929013341665268
+Epoch 97 - Batch 18 - Loss 0.051776546984910965
+Epoch 97 - Batch 19 - Loss 0.0809430405497551
+
+EPOCH 97 ...
+Loss = 1.105
+
+Epoch 98 - Batch 1 - Loss 0.049486637115478516
+Epoch 98 - Batch 2 - Loss 0.05973140522837639
+Epoch 98 - Batch 3 - Loss 0.06174822896718979
+Epoch 98 - Batch 4 - Loss 0.04883673042058945
+Epoch 98 - Batch 5 - Loss 0.052678294479846954
+Epoch 98 - Batch 6 - Loss 0.04663529992103577
+Epoch 98 - Batch 7 - Loss 0.06300149857997894
+Epoch 98 - Batch 8 - Loss 0.0546153262257576
+Epoch 98 - Batch 9 - Loss 0.06892871111631393
+Epoch 98 - Batch 10 - Loss 0.05753288418054581
+Epoch 98 - Batch 11 - Loss 0.060918230563402176
+Epoch 98 - Batch 12 - Loss 0.05781576409935951
+Epoch 98 - Batch 13 - Loss 0.05680536851286888
+Epoch 98 - Batch 14 - Loss 0.05197041481733322
+Epoch 98 - Batch 15 - Loss 0.05181339755654335
+Epoch 98 - Batch 16 - Loss 0.058165937662124634
+Epoch 98 - Batch 17 - Loss 0.0543893501162529
+Epoch 98 - Batch 18 - Loss 0.044339727610349655
+Epoch 98 - Batch 19 - Loss 0.031248068436980247
+
+EPOCH 98 ...
+Loss = 1.031
+
+Epoch 99 - Batch 1 - Loss 0.060621701180934906
+Epoch 99 - Batch 2 - Loss 0.044893503189086914
+Epoch 99 - Batch 3 - Loss 0.050667427480220795
+Epoch 99 - Batch 4 - Loss 0.04729350283741951
+Epoch 99 - Batch 5 - Loss 0.05672863498330116
+Epoch 99 - Batch 6 - Loss 0.05433833226561546
+Epoch 99 - Batch 7 - Loss 0.053610339760780334
+Epoch 99 - Batch 8 - Loss 0.05995918810367584
+Epoch 99 - Batch 9 - Loss 0.052514366805553436
+Epoch 99 - Batch 10 - Loss 0.05386928841471672
+Epoch 99 - Batch 11 - Loss 0.05318453535437584
+Epoch 99 - Batch 12 - Loss 0.05355016514658928
+Epoch 99 - Batch 13 - Loss 0.06839653849601746
+Epoch 99 - Batch 14 - Loss 0.057553730905056
+Epoch 99 - Batch 15 - Loss 0.05082481727004051
+Epoch 99 - Batch 16 - Loss 0.05413878336548805
+Epoch 99 - Batch 17 - Loss 0.05291106551885605
+Epoch 99 - Batch 18 - Loss 0.05518163740634918
+Epoch 99 - Batch 19 - Loss 0.029272470623254776
+
+EPOCH 99 ...
+Loss = 1.010
+
+Epoch 100 - Batch 1 - Loss 0.05355909839272499
+Epoch 100 - Batch 2 - Loss 0.061715077608823776
+Epoch 100 - Batch 3 - Loss 0.046561382710933685
+Epoch 100 - Batch 4 - Loss 0.051053233444690704
+Epoch 100 - Batch 5 - Loss 0.05869030952453613
+Epoch 100 - Batch 6 - Loss 0.06353112310171127
+Epoch 100 - Batch 7 - Loss 0.053079064935445786
+Epoch 100 - Batch 8 - Loss 0.057272206991910934
+Epoch 100 - Batch 9 - Loss 0.05806393176317215
+Epoch 100 - Batch 10 - Loss 0.04836215823888779
+Epoch 100 - Batch 11 - Loss 0.05446669086813927
+Epoch 100 - Batch 12 - Loss 0.05059187114238739
+Epoch 100 - Batch 13 - Loss 0.045887090265750885
+Epoch 100 - Batch 14 - Loss 0.055520232766866684
+Epoch 100 - Batch 15 - Loss 0.045852985233068466
+Epoch 100 - Batch 16 - Loss 0.051619164645671844
+Epoch 100 - Batch 17 - Loss 0.05499771982431412
+Epoch 100 - Batch 18 - Loss 0.049759913235902786
+Epoch 100 - Batch 19 - Loss 0.06441005319356918
+
+EPOCH 100 ...
+Loss = 1.025
+
+Training Finished. Saving test images to: ./runs/1547934773.2136164
+Saving model...

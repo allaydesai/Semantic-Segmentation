@@ -5,6 +5,7 @@ import helper
 import warnings
 from distutils.version import LooseVersion
 import project_tests as tests
+import time
 
 
 # Check TensorFlow Version
@@ -157,7 +158,7 @@ def train_nn(sess, epochs, batch_size, get_batches_fn, train_op, cross_entropy_l
 	"""
 	
 	keep_prob_value = 0.75
-	learning_rate_value = 0.001
+	learning_rate_value = 0.0001
 	
 	for epoch in range(epochs):
 		total_loss = 0
@@ -194,7 +195,7 @@ def run():
 	#  https://www.cityscapes-dataset.com/
 	
 	# Model parameters
-	EPOCHS = 1
+	EPOCHS = 110
 	BATCH_SIZE = 16
 		
 	# create tensors 
@@ -204,6 +205,7 @@ def run():
 	
 
 	with tf.Session() as sess:
+		
 		
 		
 		# Path to vgg model
@@ -219,6 +221,9 @@ def run():
 		model_result = layers(layer3, layer4, layer7, num_classes) 
 		
 		logits, opt, cross_entropy_loss = optimize(model_result, correct_label, learning_rate, num_classes)
+
+		# Create saver
+		saver = tf.train.Saver()
 		
 		# Initialize all variables
 		sess.run( tf.global_variables_initializer() )
@@ -231,6 +236,10 @@ def run():
 
 		# OPTIONAL: Apply the trained model to a video
 
+		#save model
+		print('Saving model...')
+		save_time = str(int(time.time()))
+		save_path = saver.save(sess, './models/model_'+save_time+'/model_'+save_time)
 
 if __name__ == '__main__':
 	run()
