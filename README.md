@@ -54,6 +54,37 @@ You may also need [Python Image Library (PIL)](https://pillow.readthedocs.io/) f
 
 ---
 
+### Model Details
+
+The network built for this project is a Fully Convolutional Network (FCN8) split into an encoder and decoder implemented using tensorflow. FCN's comprise of 3 techniques:
+
+- Replace fully connected layers with one by one convolutional layer: Matrix multiplication with spatial information.
+- Up sampling through the use of transpose convolutional layers: Upsampling the previous layer to a higher resolution or dimension.
+- Skipped connections: Skip connections allow the network to use information from multiple resolutions.
+
+The model predicts on each pixel in an image if its road or not. 
+
+##### Tuning Parameters:
+
+| Parameter | Value |
+|-----------|-------|
+| Image size | 160x576 |
+| No of classes | 2 |
+| Batch size | 16 |
+| Epochs | 110 |
+| Learning rate | 0.0001 |
+| Keep prob | 0.75 |
+
+### Results
+
+I first trained the model for 100 epochs and acheived a loss of 1.025. I observed that the loss was yet decreasing and I may have ended training too soon. The resulting images were good for most part but there were still cases where some cars may get classified as part of road or there are holes in detection of regions which should be road. Hence, I retrained the model this time for 110 Epochs and this time the loss was 0.XXX. Some of the resulting test images can be seen below:
+
+
+### Conclusion
+
+There are many areas for improvement in this project. Starting with the dataset. The dataset used for this project comprises of only 208 images out of which only 192 were used for training. This is a pretty small dataset hence performance of the model will be limited to similar scenes. Thus a larger dataset would help the model generalize better. Another possible improvement would be add augmentation to the training images. This would increase the size of the dataset and help model generalize. 
+
+
 
 ### Start
 ##### Implement
