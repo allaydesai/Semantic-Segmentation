@@ -88,9 +88,9 @@ The model predicts on each pixel in an image if its road or not.
 
 I first trained the model for 100 epochs and acheived a loss of 1.025. I observed that the loss was yet decreasing and I may have ended training too soon. The resulting images were good for most part but there were still cases where some cars may get classified as part of road or there are holes in detection of regions which should be road. Hence, I retrained the model this time for 110 Epochs and this time the loss was 0.XXX. Some of the resulting test images can be seen below:
 
-![alt text][result1] | ![alt text][result1] 
+![alt text][result1] | ![alt text][result2] 
 :-------------------------:|:-------------------------:
-![alt text][result1] | ![alt text][result1] 
+![alt text][result3] | ![alt text][result4] 
 
 
 ### Conclusion
