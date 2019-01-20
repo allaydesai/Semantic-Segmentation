@@ -9,8 +9,11 @@ Self-Driving Car Engineer Nanodegree Program
 [//]: # (Image References)
 
 [video]: ./images/result.gif "Video showing segmentation in action"
-[plan_proc]: ./imgs/planning_process.PNG "Planning Process"
-[result]: ./imgs/result.PNG "Result"
+[model]: ./images/model.PNG "Planning Process"
+[result1]: ./runs/1547934773.2136164/uu_000022.png "Result"
+[result2]: ./runs/1547934773.2136164/uu_000027.png "Result"
+[result3]: ./runs/1547934773.2136164/uu_000031.png "Result"
+[result4]: ./runs/1547934773.2136164/uu_000063.png "Result"
 
 ### Overview
 
@@ -31,6 +34,7 @@ The repository consists of the following files:
 - /data : Folder containing the data 
 - /examples : Sample results
 - /run : result images of most recent run
+- /images: Images for README
 - README.md : writeup file (either markdown or pdf)
 - helper.py : Helper function for downloading vgg weights and batching
 - main.py : Main program containing the model architecture and training
@@ -64,6 +68,8 @@ The network built for this project is a Fully Convolutional Network (FCN8) split
 - Up sampling through the use of transpose convolutional layers: Upsampling the previous layer to a higher resolution or dimension.
 - Skipped connections: Skip connections allow the network to use information from multiple resolutions.
 
+![alt text][model]
+
 In `main.py`, you'll notice that layers 3, 4 and 7 of VGG16 are utilized in creating skip layers for a fully convolutional network. The reasons for this are contained in the paper [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf).
 
 In section 4.3, and further under header "Skip Architectures for Segmentation" and Figure 3, they note these provided for 8x, 16x and 32x upsampling, respectively. Using each of these in their FCN-8s was the most effective architecture they found. 
@@ -83,7 +89,11 @@ The model predicts on each pixel in an image if its road or not.
 
 ### Results
 
-I first trained the model for 100 epochs and acheived a loss of 1.025. I observed that the loss was yet decreasing and I may have ended training too soon. The resulting images were good for most part but there were still cases where some cars may get classified as part of road or there are holes in detection of regions which should be road. Hence, I retrained the model this time for 110 Epochs and this time the loss was 0.XXX. Some of the resulting test images can be seen below:
+I first trained the model for 100 epochs and acheived a loss of 1.025. I observed that the loss was yet decreasing and I may have ended training too soon. The resulting images were good for most part but there were still cases where some cars may get classified as part of road or there are holes in detection of regions which should be road. Hence, I retrained the model this time for 110 Epochs and this time the loss was 1.054. So not too different from the first run, the model starts to overfit. More training data or image augmentation would have helped acheive a lower loss. Some of the resulting test images can be seen below:
+
+![alt text][result1] | ![alt text][result2] 
+:-------------------------:|:-------------------------:
+![alt text][result3] | ![alt text][result4] 
 
 
 ### Conclusion
