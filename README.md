@@ -9,7 +9,7 @@ Self-Driving Car Engineer Nanodegree Program
 [//]: # (Image References)
 
 [video]: ./images/result.gif "Video showing segmentation in action"
-[plan_proc]: ./imgs/uu_000051.png "Planning Process"
+[model]: ./images/model.PNG "Planning Process"
 [result1]: ./runs/1547934773.2136164/uu_000022.png "Result"
 [result2]: ./runs/1547934773.2136164/uu_000027.png "Result"
 [result3]: ./runs/1547934773.2136164/uu_000031.png "Result"
@@ -67,6 +67,8 @@ The network built for this project is a Fully Convolutional Network (FCN8) split
 - Replace fully connected layers with one by one convolutional layer: Matrix multiplication with spatial information.
 - Up sampling through the use of transpose convolutional layers: Upsampling the previous layer to a higher resolution or dimension.
 - Skipped connections: Skip connections allow the network to use information from multiple resolutions.
+
+![alt text][model]
 
 In `main.py`, you'll notice that layers 3, 4 and 7 of VGG16 are utilized in creating skip layers for a fully convolutional network. The reasons for this are contained in the paper [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf).
 
