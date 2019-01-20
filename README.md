@@ -8,13 +8,15 @@ Self-Driving Car Engineer Nanodegree Program
 
 [//]: # (Image References)
 
-[video]: ./imgs/path_planning_final.gif "Video showing planning in action"
+[video]: ./images/result.gif "Video showing segmentation in action"
 [plan_proc]: ./imgs/planning_process.PNG "Planning Process"
 [result]: ./imgs/result.PNG "Result"
 
 ### Overview
 
 Goal of this project is to label the pixels of a road in images using a Fully Convolutional Network (FCN) to acheive scene understanding. Semantic segmentation is the task of assigning meaning to part of an object by classifying each pixel location in categories such as road, car, pedestrian, sign, or any number of other classes. This helps us derive valuable information about every pixel in the image in comparision to traditional bounding box based approach of slicing sections. Purpose of scene understanding is to help develop perception which enables self driving cars to make decisions. 
+
+![alt text][video]
 
 ### Goals:
 - Helper functions: load_vgg, layers, optimize and train_nn implemented correctly
